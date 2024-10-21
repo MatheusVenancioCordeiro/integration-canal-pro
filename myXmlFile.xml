@@ -14352,6 +14352,14 @@
         <PropertyType>Residential / Other</PropertyType>
         <Description><![CDATA[Conjunto Comercial 551m² DESOCUPADO no Rio de Janeiro/RJ]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Address>Av. Paulista</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>01310-100</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -14975,14 +14983,6 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Casa 363m² no bairro Centro em Herculândia/SP - Ocupado]]></Description>
       </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Herculândia</City>
-        <Address>Av. Rui Barbosa</Address>
-        <StreetNumber>121</StreetNumber>
-        <PostalCode>17650-000</PostalCode>
-      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -15470,6 +15470,14 @@
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Casa 331m², Desocupada, em Conceição das Alagoas/MG]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MG">MG</State>
+        <City>Conceição das Alagoas</City>
+        <Address>Rua Whady Nassif</Address>
+        <StreetNumber>398</StreetNumber>
+        <PostalCode>38120-000</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -15612,8 +15620,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
         <City>Ouroeste</City>
-        <Address>Rua Projetada, 7</Address>
-        <StreetNumber>Lote 22</StreetNumber>
+        <Address>Rua Projetada</Address>
+        <StreetNumber>7</StreetNumber>
         <PostalCode>15685-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -16000,7 +16008,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SC">SC</State>
-        <City>Balneário Piçarras</City>
+        <City>Balneário Camboriú</City>
         <Address>Rua Antonio Agnelo Santana</Address>
         <StreetNumber>343</StreetNumber>
         <PostalCode>88380-000</PostalCode>
@@ -16119,8 +16127,8 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="DF">DF</State>
-        <City>Distrito Federal</City>
+        <State abbreviation="Distrito Federal">Distrito Federal</State>
+        <City>Samambaia</City>
         <Address>Quadra QN 108</Address>
         <StreetNumber>apto 304</StreetNumber>
         <PostalCode>72302250</PostalCode>
@@ -16211,14 +16219,6 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apto 91m², Ocupado, 1 Vaga na Penha de França, São Paulo/SP]]></Description>
       </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
-        <Address>Rua Henrique Casela</Address>
-        <StreetNumber>60</StreetNumber>
-        <PostalCode>03619-000</PostalCode>
-      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -16247,7 +16247,7 @@
         <City>Goiânia</City>
         <Address>Rua 17-A</Address>
         <StreetNumber>560</StreetNumber>
-        <PostalCode>74070-100</PostalCode>
+        <PostalCode>74070100</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -16438,7 +16438,7 @@
         <State abbreviation="AM">AM</State>
         <City>Itacoatiara</City>
         <Address>Rua Eduardo Ribeiro</Address>
-        <StreetNumber>2714</StreetNumber>
+        <StreetNumber>2.714</StreetNumber>
         <PostalCode>69104-128</PostalCode>
       </Location>
       <ContactInfo>
@@ -16616,7 +16616,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PE">PE</State>
-        <City>Jaboatão Dos Guararapes</City>
+        <City>Candeias</City>
         <Address>Rua Coronel Kleber De Andrade</Address>
         <StreetNumber>985</StreetNumber>
         <PostalCode>54450160</PostalCode>
@@ -16658,7 +16658,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">PR</State>
-        <City>&amp;Acirc;ngulo</City>
+        <City>Ângulo</City>
         <Address>Rua Laureano Paulino Da Silva</Address>
         <StreetNumber>16</StreetNumber>
         <PostalCode>86755000</PostalCode>
@@ -16890,7 +16890,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SE">SE</State>
-        <City>Aracaju</City>
+        <City>Farolandia</City>
         <Address>Rua Salvelina Dos Santos</Address>
         <StreetNumber>117</StreetNumber>
         <PostalCode>49030810</PostalCode>
@@ -16976,6 +16976,14 @@
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Casa, Ocupado, Bebedouro / SP (33% abaixo da avaliação)]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Bebedouro</City>
+        <Address>Alameda Guarapari</Address>
+        <StreetNumber>53</StreetNumber>
+        <PostalCode>14708088</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -17157,7 +17165,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PB">PB</State>
         <City>Jatobá</City>
-        <Address>Rua Padre Francisco Paulo Licariação</Address>
+        <Address>Rua Padre Francisco Paulo Licarição</Address>
         <StreetNumber>965</StreetNumber>
         <PostalCode>58707300</PostalCode>
       </Location>
@@ -17284,7 +17292,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">PR</State>
-        <City>&amp;Acirc;ngulo</City>
+        <City>Ângulo</City>
         <Address>Rua Laureano Paulino Da Silva</Address>
         <StreetNumber>16</StreetNumber>
         <PostalCode>86755000</PostalCode>
@@ -17688,14 +17696,6 @@
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Casa c/ Terreno de 200m², Ocupada no Santa Bárbara, São Luis/MA]]></Description>
       </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="São Luis/MA">São Luis/MA</State>
-        <City>Santa Bárbara</City>
-        <Address>Rua 12</Address>
-        <StreetNumber>203</StreetNumber>
-        <PostalCode>65058-189</PostalCode>
-      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -18090,14 +18090,6 @@
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Casa c/ Terreno de 140m², Ocupada no Jardim dos Lagos, Viana/MA]]></Description>
       </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MA">MA</State>
-        <City>Viana</City>
-        <Address>Rua dos Bem-te-vis</Address>
-        <StreetNumber>S/N</StreetNumber>
-        <PostalCode>65010-000</PostalCode>
-      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -18162,10 +18154,10 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="São Luis/MA">São Luis/MA</State>
+        <State abbreviation="São Luis">São Luis</State>
         <City>Santa Bárbara</City>
         <Address>Rua 12</Address>
-        <StreetNumber>Unidade 203, Casa n° 54</StreetNumber>
+        <StreetNumber>203</StreetNumber>
         <PostalCode>65058-189</PostalCode>
       </Location>
       <ContactInfo>
@@ -18442,7 +18434,7 @@
         <City>Osasco</City>
         <Address>Rua Olívio Basilio Marçal</Address>
         <StreetNumber>490</StreetNumber>
-        <PostalCode>06172226</PostalCode>
+        <PostalCode>06172-226</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -18475,7 +18467,7 @@
         <State abbreviation="MS">MS</State>
         <City>Campo Grande</City>
         <Address>Rua Alexandre Fleming</Address>
-        <StreetNumber>1.817</StreetNumber>
+        <StreetNumber>1817</StreetNumber>
         <PostalCode>79006570</PostalCode>
       </Location>
       <ContactInfo>
@@ -18802,7 +18794,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
-        <City>Paraiso De Igaratá</City>
+        <City>Paraíso De Igaratá</City>
         <Address>Alameda Das Palmeiras</Address>
         <StreetNumber>105</StreetNumber>
         <PostalCode>12350000</PostalCode>
@@ -18847,7 +18839,7 @@
         <City>Passo Fundo</City>
         <Address>Rua Morom</Address>
         <StreetNumber>3042</StreetNumber>
-        <PostalCode>99025024</PostalCode>
+        <PostalCode>99025-024</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -18957,7 +18949,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
-        <City>Dois Córregos</City>
+        <City>Dois C&amp;oacute;rregos</City>
         <Address>Rua Fernando Vecchine</Address>
         <StreetNumber>55</StreetNumber>
         <PostalCode>13420782</PostalCode>
@@ -19000,7 +18992,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="RJ">RJ</State>
-        <City>Rio De Janeiro</City>
+        <City>Rio de Janeiro</City>
         <Address>Rua Quito</Address>
         <StreetNumber>226</StreetNumber>
         <PostalCode>21020330</PostalCode>
@@ -19262,7 +19254,7 @@
         <State abbreviation="DF">DF</State>
         <City>Taguatinga</City>
         <Address>Setor QSC</Address>
-        <StreetNumber>Lote nº 16</StreetNumber>
+        <StreetNumber>16</StreetNumber>
         <PostalCode>72016-100</PostalCode>
       </Location>
       <ContactInfo>
@@ -19666,8 +19658,8 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Sao Paulo</City>
+        <State abbreviation="Sao Paulo">Sao Paulo</State>
+        <City>Bras</City>
         <Address>Rua Martim Burchard</Address>
         <StreetNumber>187</StreetNumber>
         <PostalCode>03043020</PostalCode>
@@ -19780,7 +19772,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
-        <City>Paulicéia</City>
+        <City>Portal Dos Dourados</City>
         <Address>Rua Guaranis</Address>
         <StreetNumber>SN</StreetNumber>
         <PostalCode>17990000</PostalCode>
@@ -19934,6 +19926,14 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento, Ocupado, Rio De Janeiro / RJ (33% abaixo da avaliação)]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Rio De Janeiro</City>
+        <Address>Rua Quito</Address>
+        <StreetNumber>226</StreetNumber>
+        <PostalCode>21020330</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -19958,6 +19958,14 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apartamento, Ocupado, Itaguaí / RJ (32% abaixo da avaliação)]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Itaguaí</City>
+        <Address>Rua Elvira Ciuffo Cicarino</Address>
+        <StreetNumber>1011</StreetNumber>
+        <PostalCode>23821135</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -20036,6 +20044,14 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apto Duplex n° 316 com 56m², 1 Vaga Náutica e 1 vaga de garagem descoberta, Desocupado, Costabella Marina e Resort  - Angra dos Reis/RJ]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Angra dos Reis</City>
+        <Address>Rua Angra Azul</Address>
+        <StreetNumber>s/n</StreetNumber>
+        <PostalCode>23942-315</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -20167,6 +20183,14 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apto Studio n° 317 com 44m², 1 Vaga Náutica e 1 vaga de garagem descoberta, Desocupado, Costabella Marina e Resort  - Angra dos Reis/RJ]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Angra dos Reis</City>
+        <Address>Rua Angra Azul</Address>
+        <StreetNumber>s/n</StreetNumber>
+        <PostalCode>23942-315</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -20268,6 +20292,14 @@
         <PropertyType>Residential / Other</PropertyType>
         <Description><![CDATA[Imóvel Comercial locado em Pedro Afonso/TO]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Address>Rua das Flores</Address>
+        <StreetNumber>123</StreetNumber>
+        <PostalCode>01010-010</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -20311,6 +20343,14 @@
         <PropertyType>Residential / Home</PropertyType>
         <Description><![CDATA[Casa 166m² no bairro Jardim Souza Queiroz em Santa Barbara D'Oeste - Ocupado]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santa Bárbara d'Oeste</City>
+        <Address>Rua Doutor Sebastião Adail Ribeiro</Address>
+        <StreetNumber>245</StreetNumber>
+        <PostalCode>13456646</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -20332,6 +20372,14 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apto 69m² 1 vaga no bairro Nova Mirim na Praia Grande/SP - Ocupado]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Praia Grande</City>
+        <Address>Avenida Presidente Castelo Branco</Address>
+        <StreetNumber>9.127</StreetNumber>
+        <PostalCode>11702200</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
@@ -20355,6 +20403,14 @@
         <PropertyType>Residential / Apartment</PropertyType>
         <Description><![CDATA[Apto. 54m², Centro, Novo Hamburgo/RS]]></Description>
       </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RS">RS</State>
+        <City>Novo Hamburgo</City>
+        <Address>Av. Primeiro de Março</Address>
+        <StreetNumber>219</StreetNumber>
+        <PostalCode>93510-033</PostalCode>
+      </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
         <Email>kelly.teruya@superbid.net</Email>
