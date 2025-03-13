@@ -4,7 +4,7 @@
     <Provider>Matheus Venancio Cordeiro</Provider>
     <Email>matheus.cordeiro@superbid.net</Email>
     <ContactName>Superbid Exchange</ContactName>
-    <PublishDate>2025-03-12T17:57:41.133Z</PublishDate>
+    <PublishDate>2025-03-13T20:37:11.767Z</PublishDate>
   </Header>
   <Listings>
     <Listing>
@@ -396,7 +396,7 @@
         <City>Nilópolis</City>
         <Address>Estrada Dr Manoel Reis</Address>
         <StreetNumber>1589</StreetNumber>
-        <PostalCode>26520-620</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -681,7 +681,7 @@
         <City>Rio de Janeiro</City>
         <Address>Estrada São Pedro de Alcântara</Address>
         <StreetNumber>4260</StreetNumber>
-        <PostalCode />
+        <PostalCode>00000-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -721,7 +721,7 @@
         <City>Viamão</City>
         <Address>Rodovia Victorino José Goulart</Address>
         <StreetNumber>371</StreetNumber>
-        <PostalCode>CEP a ser preenchido</PostalCode>
+        <PostalCode>94.750-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -1117,7 +1117,7 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Salvador">Salvador</State>
+        <State abbreviation="Salvador/BA">Salvador/BA</State>
         <City>Santo Antônio</City>
         <Address>Rua Odilon Machado</Address>
         <StreetNumber>657</StreetNumber>
@@ -1365,11 +1365,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Maranhão">Maranhão</State>
+        <State abbreviation="MA">MA</State>
         <City>Viana</City>
         <Address>Rua dos Bem-te-vis</Address>
         <StreetNumber>S/N</StreetNumber>
-        <PostalCode>65000-000</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -1531,7 +1531,7 @@
         <City>Rio de Janeiro</City>
         <Address>Estrada São Pedro de Alcântara</Address>
         <StreetNumber>4260</StreetNumber>
-        <PostalCode>CEP não fornecido</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -1939,42 +1939,7 @@
         <City>Rio de Janeiro</City>
         <Address>Avenida Embaixador Abelardo Bueno</Address>
         <StreetNumber>3300</StreetNumber>
-        <PostalCode>22775-040</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>3695987</ListingID>
-      <Title>Loja 108m², Alugada/Ocupada, Sul (Aguas Claras), Brasília/DF</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/3695987</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/524fe575-3616-456f-8e44-a4df1e7a8b1b.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ba27274a-5dbd-4bff-bcc8-f3fe7c8afa8c.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/164728c4-e012-4b4b-b8a3-c63b7e35a23a.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8ad88a2e-e00f-4d1f-a9ac-5a43df29b8c7.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">430000</ListPrice>
-        <LivingArea unit="square metres">108.82</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="DF">DF</State>
-        <City>Brasília</City>
-        <Address>Avenida Jequitibá</Address>
-        <StreetNumber>885</StreetNumber>
-        <PostalCode>CEP não informado</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2006,8 +1971,8 @@
         <State abbreviation="DF">DF</State>
         <City>Brasília</City>
         <Address>Setor Leste</Address>
-        <StreetNumber>13</StreetNumber>
-        <PostalCode>71205-049</PostalCode>
+        <StreetNumber>Conjunto 13, Quadra 04, Lote nº 49</StreetNumber>
+        <PostalCode>71.225-058</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2121,7 +2086,7 @@
         <City>Piracicaba</City>
         <Address>Rua dos Mandis</Address>
         <StreetNumber>262</StreetNumber>
-        <PostalCode>13408-431</PostalCode>
+        <PostalCode>13420-350</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2403,8 +2368,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
         <City>Leme</City>
-        <Address>Rua Francisco Santucci e Rua João Januário da Luz</Address>
-        <StreetNumber>310 e 314 e 36, 38 e 40</StreetNumber>
+        <Address>Rua Francisco Santucci</Address>
+        <StreetNumber>310 e 314</StreetNumber>
         <PostalCode>13617-665</PostalCode>
       </Location>
       <ContactInfo>
@@ -3090,7 +3055,7 @@
         <City>São João do Meriti</City>
         <Address>Rua Francisco Eugenio de Menezes</Address>
         <StreetNumber>146-C/01</StreetNumber>
-        <PostalCode>25525-690</PostalCode>
+        <PostalCode>25520-315</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3128,7 +3093,7 @@
         <City>Sangão</City>
         <Address>Rua Martinho Hilario Cardoso</Address>
         <StreetNumber>273</StreetNumber>
-        <PostalCode />
+        <PostalCode>88717-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3163,7 +3128,7 @@
         <City>Caxias do Sul</City>
         <Address>Rua Mari Ruffato</Address>
         <StreetNumber>689</StreetNumber>
-        <PostalCode>95052-320</PostalCode>
+        <PostalCode>95059-520</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3239,7 +3204,7 @@
         <City>São Paulo</City>
         <Address>Avenida Aricanduva</Address>
         <StreetNumber>12900</StreetNumber>
-        <PostalCode>CEP do endereço</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3274,11 +3239,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Cotia">Cotia</State>
-        <City>São Paulo II</City>
+        <State abbreviation="SP">SP</State>
+        <City>Cotia</City>
         <Address>Rua Mendonça Furtado</Address>
         <StreetNumber>779</StreetNumber>
-        <PostalCode>SP</PostalCode>
+        <PostalCode>06709-530</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3312,7 +3277,7 @@
         <City>Guanambi</City>
         <Address>Rua Rio Grande do Norte</Address>
         <StreetNumber>149</StreetNumber>
-        <PostalCode>46430-000</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3388,7 +3353,7 @@
         <City>Araçoiaba da Serra</City>
         <Address>Rua José Vitorino Chagas</Address>
         <StreetNumber />
-        <PostalCode>CEP não informado</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3616,7 +3581,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="MG">MG</State>
-        <City>Uberlândia</City>
+        <City>Uberlandia</City>
         <Address>Rua Gago Coutinho</Address>
         <StreetNumber>651</StreetNumber>
         <PostalCode>38406-394</PostalCode>
@@ -3838,7 +3803,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
         <City>Itariri</City>
-        <Address>Rodovia Padre Manoel da Nóbrega</Address>
+        <Address>Rodovia Padre Manoel da Nobrega</Address>
         <StreetNumber>Km 234</StreetNumber>
         <PostalCode>11760-000</PostalCode>
       </Location>
@@ -3878,7 +3843,7 @@
         <City>Uberlândia</City>
         <Address>Rua Paulo Maia</Address>
         <StreetNumber>215</StreetNumber>
-        <PostalCode>38412-215</PostalCode>
+        <PostalCode>38408-106</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3981,8 +3946,8 @@
         <State abbreviation="SP">SP</State>
         <City>São Paulo</City>
         <Address>Avenida Ministro Petrônio Portela</Address>
-        <StreetNumber>1.901</StreetNumber>
-        <PostalCode>02959000</PostalCode>
+        <StreetNumber>1901</StreetNumber>
+        <PostalCode>02959-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -4183,7 +4148,7 @@
         <City>Cáceres</City>
         <Address>Avenida Nossa Senhora do Carmo</Address>
         <StreetNumber>q.001 I.002</StreetNumber>
-        <PostalCode>78250-000</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -4257,8 +4222,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="Distrito Federal">Distrito Federal</State>
         <City>GUARÁ</City>
-        <Address>QE-02</Address>
-        <StreetNumber>Bloco I, apto 315, Edifício Riachuelo</StreetNumber>
+        <Address>QE-02 Bloco I</Address>
+        <StreetNumber>315</StreetNumber>
         <PostalCode>71010-091</PostalCode>
       </Location>
       <ContactInfo>
@@ -4699,7 +4664,7 @@
         <City>Caxias do Sul</City>
         <Address>Rua João Batista Rech</Address>
         <StreetNumber>91</StreetNumber>
-        <PostalCode />
+        <PostalCode>xxxxx-xxx</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -4954,7 +4919,7 @@
         <State abbreviation="SP">SP</State>
         <City>Taboão da Serra</City>
         <Address>Rua Maria Abadia dos Santos</Address>
-        <StreetNumber>107</StreetNumber>
+        <StreetNumber>107, apto. 166</StreetNumber>
         <PostalCode>06764-030</PostalCode>
       </Location>
       <ContactInfo>
@@ -5106,7 +5071,7 @@
         <City>São Paulo</City>
         <Address>Rua Nelson Braga</Address>
         <StreetNumber>145</StreetNumber>
-        <PostalCode>17047-860</PostalCode>
+        <PostalCode>15070-260</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5209,7 +5174,7 @@
         <State abbreviation="PE">PE</State>
         <City>Jatobá</City>
         <Address>Avenida Eletrobras Sul</Address>
-        <StreetNumber>Quadra 16 - Lote 01</StreetNumber>
+        <StreetNumber>16</StreetNumber>
         <PostalCode />
       </Location>
       <ContactInfo>
@@ -5247,8 +5212,8 @@
         <State abbreviation="BA">BA</State>
         <City>Salvador</City>
         <Address>Alameda das Nações</Address>
-        <StreetNumber>-</StreetNumber>
-        <PostalCode>-</PostalCode>
+        <StreetNumber>S/N</StreetNumber>
+        <PostalCode>00000-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5286,6 +5251,41 @@
         <City>Salvador</City>
         <Address>Alameda das Nações</Address>
         <StreetNumber />
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3745541</ListingID>
+      <Title>10 Salas Comerciais Desocupadas no Centro do Rio de Janeiro/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3745541</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8428b7a0-33cf-4b4a-b3ea-08ae7e308260.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/042c8ac1-23c1-4c3f-90c0-71c0ca0dcf55.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/28d0b524-401a-446b-86c3-c4b28d6ace24.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/b9ee085f-3a40-45a4-b17f-859a162e20af.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">1361500</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Rio de Janeiro</City>
+        <Address>Avenida Presidente Vargas</Address>
+        <StreetNumber>583</StreetNumber>
         <PostalCode />
       </Location>
       <ContactInfo>
@@ -5352,7 +5352,7 @@
         <City>Nova Marabá</City>
         <Address>Quadra 03</Address>
         <StreetNumber>Lote D07</StreetNumber>
-        <PostalCode>nao informado</PostalCode>
+        <PostalCode>68505-160</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5383,11 +5383,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="PA">PA</State>
+        <State abbreviation="Pará">Pará</State>
         <City>Nova Marabá</City>
         <Address>Quadra 03</Address>
         <StreetNumber>Lote F16</StreetNumber>
-        <PostalCode>68500-000</PostalCode>
+        <PostalCode>68502-350</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5422,7 +5422,7 @@
         <City>Nova Marabá</City>
         <Address>Quadra 09</Address>
         <StreetNumber>Lote F32</StreetNumber>
-        <PostalCode>68510-480</PostalCode>
+        <PostalCode>68502-630</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5457,7 +5457,7 @@
         <City>Nova Marabá</City>
         <Address>Quadra 09</Address>
         <StreetNumber>Lote F25</StreetNumber>
-        <PostalCode>68507-660</PostalCode>
+        <PostalCode>68510-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5492,7 +5492,7 @@
         <City>Porto Velho</City>
         <Address>Rua Coqueiral</Address>
         <StreetNumber>Quadra 32</StreetNumber>
-        <PostalCode />
+        <PostalCode>XXXXXXXXX</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5526,7 +5526,7 @@
         <State abbreviation="RO">RO</State>
         <City>Porto Velho</City>
         <Address>Rua Dom Basílio - Rua 26</Address>
-        <StreetNumber>Casa 06 - n 135</StreetNumber>
+        <StreetNumber>135</StreetNumber>
         <PostalCode />
       </Location>
       <ContactInfo>
@@ -5597,7 +5597,7 @@
         <City>Porto Velho</City>
         <Address>Rua Nova União</Address>
         <StreetNumber>Rua 14 Quadra 35</StreetNumber>
-        <PostalCode />
+        <PostalCode>00000-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5755,8 +5755,15 @@
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://www.superbid.net/oferta/3746919</DetailViewUrl>
       <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/28da3ef1-7ce3-4ddd-8ace-4b71f91665f4.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/bc846780-7680-470c-970d-c66d853c7346.jpg</Item>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/72142976-bc00-4982-b2cf-b5a48f4f2115.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/fa68279f-4c5b-40f7-a0b5-5573b723a596.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d2a3984b-a4c8-406e-a07e-91f566235b03.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/8bb6d3d9-33b0-48c0-9585-20ceb797d874.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/376b4fc5-6900-442b-bbb2-f71fd22ad22f.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/4e2e8ba1-16f3-40db-b94e-002db2afe949.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/c841c72d-564d-40f3-a545-f7ea1ce3ac95.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/f3e1b842-ed8a-4746-a5dc-1af9e20ec56d.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/5f4ac2c5-9afb-4d7f-92cd-3654a9a15c19.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -5876,7 +5883,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
-        <City>São Bernardo do Campo</City>
+        <City>São Bernardo do Campos</City>
         <Address>Rua Antonio de Salema</Address>
         <StreetNumber>126</StreetNumber>
         <PostalCode>09726-350</PostalCode>
@@ -5908,10 +5915,10 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="DF">DF</State>
-        <City>Brasília</City>
+        <State abbreviation="Brasília">Brasília</State>
+        <City>Santa Maria</City>
         <Address>Residencial Santos Dumont</Address>
-        <StreetNumber>Lote 22, QD QRI 2</StreetNumber>
+        <StreetNumber>Lote 22</StreetNumber>
         <PostalCode>72593-202</PostalCode>
       </Location>
       <ContactInfo>
@@ -5949,7 +5956,7 @@
         <State abbreviation="RS">RS</State>
         <City>Porto Alegre</City>
         <Address>Rua Dr Campos Velho</Address>
-        <StreetNumber>591 - apto 313</StreetNumber>
+        <StreetNumber>591</StreetNumber>
         <PostalCode>90820-001</PostalCode>
       </Location>
       <ContactInfo>
@@ -6697,7 +6704,7 @@
         <State abbreviation="RJ">RJ</State>
         <City>Belford Roxo</City>
         <Address>Rua Tenente Zilton Nascimento de Oliveira</Address>
-        <StreetNumber>137</StreetNumber>
+        <StreetNumber>137, casa 51</StreetNumber>
         <PostalCode>26178-430</PostalCode>
       </Location>
       <ContactInfo>
@@ -6771,7 +6778,7 @@
         <State abbreviation="MA">MA</State>
         <City>São Luís</City>
         <Address>Rua Munin</Address>
-        <StreetNumber>Quadra 04, Lote 01, apto. nº 104 - Bloco 6</StreetNumber>
+        <StreetNumber>Quadra 04, Lote 01, apto. nº 104 - Bloco 6 do Condomínio Residencial Vitre</StreetNumber>
         <PostalCode>65074-380</PostalCode>
       </Location>
       <ContactInfo>
@@ -6821,7 +6828,10 @@
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://www.superbid.net/oferta/3760747</DetailViewUrl>
       <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e063f74b-eff2-462c-9b0f-3accdce7758f.jpg</Item>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/346f3e22-6ec1-4b63-a817-6e6ec065942a.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/74b47c6f-d9f6-4d1d-9012-ceec442d1513.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/33dc704a-82b0-451b-aa47-ad1549937ace.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/6e51384c-44d6-472a-b814-4ee03fe51a56.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -6905,7 +6915,7 @@
         <City>São Paulo</City>
         <Address>Avenida Nove de Julho</Address>
         <StreetNumber>200</StreetNumber>
-        <PostalCode />
+        <PostalCode>01000-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -7003,7 +7013,7 @@
         <State abbreviation="PR">PR</State>
         <City>Cascavel</City>
         <Address>Rua Ponta Grossa</Address>
-        <StreetNumber>2348</StreetNumber>
+        <StreetNumber>2.348</StreetNumber>
         <PostalCode>85816-270</PostalCode>
       </Location>
       <ContactInfo>
@@ -7038,6 +7048,668 @@
         <Address>Rua Pedro Jovelino Costa</Address>
         <StreetNumber>395</StreetNumber>
         <PostalCode>88906-764</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767805</ListingID>
+      <Title>Apto 54m² no Ingleses do Rio Vermelho em Florianópolis/SC</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767805</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/68c5bdc6-fe2a-447d-b5ce-491f1313a06d.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">375000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SC">SC</State>
+        <City>Florianópolis</City>
+        <Address>Rua Luiz Elias Daux</Address>
+        <StreetNumber>1489</StreetNumber>
+        <PostalCode>88058-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767808</ListingID>
+      <Title>Apto 80m² na Vila Morumbi em Campo Grande/MS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767808</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/bc43b675-90be-458f-b056-65df5f50c6c9.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">175000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MS">MS</State>
+        <City>Campo Grande</City>
+        <Address>Rua Spipe Calarge</Address>
+        <StreetNumber>1575</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763686</ListingID>
+      <Title>4 Salas Comerciais no Centro do Rio de Janeiro/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763686</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/516aa1dc-385d-418a-b16e-4297ed0ce543.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/bf9b1882-38a3-40c6-8dc3-c1a7def828b6.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/f71e9303-63ff-4fe2-baab-ad1aba6552aa.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">175000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Rio de Janeiro</City>
+        <Address>Avenida Passos</Address>
+        <StreetNumber>101</StreetNumber>
+        <PostalCode>20051-040</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763703</ListingID>
+      <Title>Casa 187m² no Jardim da Barragem I em Águas Lindas de Goiás/GO</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763703</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/b658cf8d-d488-4a92-9044-b9a36c781253.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">490000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="GO">GO</State>
+        <City>Águas Lindas de Goiás</City>
+        <Address>Rua 13</Address>
+        <StreetNumber>Lote 19</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767811</ListingID>
+      <Title>Casa 352m² em Ananindeua/PA</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767811</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/5849f58b-0392-4726-b9c1-23e360d68aeb.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">425000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PA">PA</State>
+        <City>Ananindeua</City>
+        <Address>Rua Santos Dumont</Address>
+        <StreetNumber>21</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767809</ListingID>
+      <Title>Casa 190m² no Setor Sul em Ituiutuba/MG</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767809</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ebde5ae1-e0f7-4484-acc8-7682572a93cd.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">325000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MG">MG</State>
+        <City>Ituiutava</City>
+        <Address>Avenida 31</Address>
+        <StreetNumber>1347</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763706</ListingID>
+      <Title>Sala Comercial 81m² no bairro Nova Vinhedo em Vinhedo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763706</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/515d2940-7a21-4b0d-97a3-3efe0a660151.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">499000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Vinhedo</City>
+        <Address>Avenida Benedito Storani</Address>
+        <StreetNumber>1425</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763687</ListingID>
+      <Title>Casa 242m² no bairro Moradas do Bosque em Itamonte/MG</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763687</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/da82d47f-b45a-493c-b6d8-8c1c03e9483e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">289000</ListPrice>
+        <LivingArea unit="square metres">450</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MG">MG</State>
+        <City>Itamonte</City>
+        <Address>Avenida Vinte de Junho</Address>
+        <StreetNumber>319</StreetNumber>
+        <PostalCode>37510-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767812</ListingID>
+      <Title>Loja Comercial em Jacarepaguá no Rio de Janeiro/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767812</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/da46876c-3380-4291-88d8-7144b35e4dc7.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">1750000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Rio de Janeiro</City>
+        <Address>Rua José de Figueiredo</Address>
+        <StreetNumber>320</StreetNumber>
+        <PostalCode>00000-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763692</ListingID>
+      <Title>Casa 200m² no bairro Jardim América IV em Águas Lindas de Goiás/GO</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763692</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c8c7bc31-48a1-4548-8838-f84754c9381a.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c6aeb186-9e82-4965-84b3-f699b5f057fc.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/65458c00-471a-41dd-b1b7-538501021402.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/b88b0886-490d-403c-9244-99d281db9894.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/44e57e16-3d07-41e2-9d8a-805dadc4c4ad.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/cb643818-4058-4013-9d9e-e373919195b2.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/7e43c03b-25cc-41f3-a630-bf8a6c228f05.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/bca2586f-8f52-4635-842d-ddced2242b41.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/aba534f0-45e7-45b7-9e0a-f294db2e5c6d.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/9754495e-d338-4b73-8c65-35abc54a3443.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/55207105-d5f7-4361-9ede-60fb74eacbbe.jpg</Item>
+        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/18057c33-f677-49f9-bdeb-27829d43d605.jpg</Item>
+        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/6800d346-84b7-4a1a-8050-40c090752494.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">75000</ListPrice>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="GO">GO</State>
+        <City>Águas Lindas de Goiás</City>
+        <Address>Rua 10</Address>
+        <StreetNumber>08</StreetNumber>
+        <PostalCode>72910-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763691</ListingID>
+      <Title>Casa 304m² no bairro Camaquã em Porto Alegre/RS</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763691</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/66bc9845-1ce2-4bf8-8294-248667b725dc.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/d46c4bdf-8a05-4127-b455-f7867f1a74b0.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/157bc978-67f6-4b75-8df7-e7e4b52b66fb.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/f0569a3e-db34-43ab-890c-6e3cd1abfd61.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">349000</ListPrice>
+        <LivingArea unit="square metres">304</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RS">RS</State>
+        <City>Porto Alegre</City>
+        <Address>Rua Doutor Barcelos</Address>
+        <StreetNumber>1844</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763705</ListingID>
+      <Title>Casa 116m² no Alvorada em Ituiutaba/MG</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763705</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/a1c808ba-6234-40f0-9daa-c6562a61fbe8.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">159000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MG">MG</State>
+        <City>Ituiutaba</City>
+        <Address>Rua Baru</Address>
+        <StreetNumber>282</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767917</ListingID>
+      <Title>Casa 40m² no bairro Vale do Gavião em Teresina/PI</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767917</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/26e2a19a-2109-4a87-be65-eefe0f2c038d.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">145000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="Piauí">Piauí</State>
+        <City>Teresina</City>
+        <Address>Rua Jose Ponce Filho</Address>
+        <StreetNumber>38</StreetNumber>
+        <PostalCode>64025-060</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767806</ListingID>
+      <Title>Casa 131m² no Emaús em Parnamirim/RN</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767806</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/28a40ed6-77c8-48e2-9277-3286e02f4706.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">159000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RN">RN</State>
+        <City>Parnamirim</City>
+        <Address>Rua Rio da Prata</Address>
+        <StreetNumber>32</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763688</ListingID>
+      <Title>Casa 308m² no bairro Jd Cidade Universitária em João Pessoa/PB</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763688</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/43512fcd-f0df-401a-9b34-2469a61dd178.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/b09f35b6-aa46-4a21-8b98-94a839c3bea0.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">699000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PB">PB</State>
+        <City>João Pessoa</City>
+        <Address>Rua Rejane Freire Correia</Address>
+        <StreetNumber>1085</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767804</ListingID>
+      <Title>Sala Comercial 67m² no Centro de Florianópolis/SC</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767804</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c30b8c1b-76e7-4a51-a849-b8a5c3278326.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">325000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SC">SC</State>
+        <City>Florianópolis</City>
+        <Address>Praça Oliveira Pereira</Address>
+        <StreetNumber>64</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763690</ListingID>
+      <Title>Casa 71m² no bairro Jd Privê das Caldas em Caldas Novas/GO</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763690</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/eb3934d7-8730-4065-b438-60d8c41eec66.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/307637e8-cf71-4f70-af3c-0ec3e3ff09fa.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">175000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="GO">GO</State>
+        <City>Caldas Novas</City>
+        <Address>Rua JPC-17</Address>
+        <StreetNumber>477</StreetNumber>
+        <PostalCode>75690-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767810</ListingID>
+      <Title>Apto 46m² no Cachoeira em Tamandaré/PR</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767810</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ef78d267-56ba-403a-a160-c054b556d970.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">75000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PR">PR</State>
+        <City>Tamandaré</City>
+        <Address>Avenida Francisco Kruger</Address>
+        <StreetNumber>6350</StreetNumber>
+        <PostalCode />
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3767916</ListingID>
+      <Title>Casa 250m² no bairro Morada da Serra em Cuiabá/MT</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3767916</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/1cf44129-6827-4f17-a34c-6ac32de818a3.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/69eeb89c-147b-49d9-9851-c1294b714927.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b42c9595-e432-48d0-92b3-8189a2c71279.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/a452b479-1b9f-4b9f-a085-0e30fe594a4e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">199000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="MT">MT</State>
+        <City>Cuiabá</City>
+        <Address>Rua Cinquenta</Address>
+        <StreetNumber>03</StreetNumber>
+        <PostalCode>78086-330</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>3763704</ListingID>
+      <Title>Casa em Guaratiba no Rio de Janeiro/RJ</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3763704</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/7fed5509-33b5-4837-92a4-e79d197ad04e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">975000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="RJ">RJ</State>
+        <City>Rio de Janeiro</City>
+        <Address>Avenida Ailton Henrique da Costa</Address>
+        <StreetNumber>345</StreetNumber>
+        <PostalCode>23021-430</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
