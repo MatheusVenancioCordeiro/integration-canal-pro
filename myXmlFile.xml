@@ -4,7 +4,7 @@
     <Provider>Matheus Venancio Cordeiro</Provider>
     <Email>matheus.cordeiro@superbid.net</Email>
     <ContactName>Superbid Exchange</ContactName>
-    <PublishDate>2025-09-15T20:25:45.047Z</PublishDate>
+    <PublishDate>2025-09-16T12:51:47.169Z</PublishDate>
   </Header>
   <Listings>
     <Listing>
@@ -716,7 +716,7 @@
         <State abbreviation="GO">GO</State>
         <City>Goiânia</City>
         <Address>Rua 240</Address>
-        <StreetNumber>s/nº</StreetNumber>
+        <StreetNumber>s/nº, Lote 9-A</StreetNumber>
         <PostalCode>74655-180</PostalCode>
       </Location>
       <ContactInfo>
@@ -835,7 +835,7 @@
         <State abbreviation="MG">MG</State>
         <City>Itamarandiba</City>
         <Address>Fazenda Conjunto Cachoeira</Address>
-        <StreetNumber>12 e 13</StreetNumber>
+        <StreetNumber>Lotes 12 e 13</StreetNumber>
         <PostalCode>39670-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -874,8 +874,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="MG">MG</State>
         <City>Itamarandiba</City>
-        <Address>Fazenda Santa Quitéria - Lote 22 A</Address>
-        <StreetNumber />
+        <Address>Fazenda Santa Quitéria</Address>
+        <StreetNumber>Lote 22 A</StreetNumber>
         <PostalCode>39670-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -919,11 +919,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Estado Tal">Estado Tal</State>
-        <City>Cidade Tal</City>
-        <Address>Rua Tal</Address>
-        <StreetNumber>123</StreetNumber>
-        <PostalCode>12345-678</PostalCode>
+        <State abbreviation="" />
+        <City />
+        <Address />
+        <StreetNumber />
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -992,7 +992,7 @@
         <State abbreviation="MG">MG</State>
         <City>Belo Horizonte</City>
         <Address>Rua Benjamim Jacob</Address>
-        <StreetNumber>3º Seção Suburbana, Lote 02, 03 E 04</StreetNumber>
+        <StreetNumber>3º Seção Suburbana, Lote 02, 03 E 04 Quadra 82</StreetNumber>
         <PostalCode>30441-141</PostalCode>
       </Location>
       <ContactInfo>
@@ -1026,8 +1026,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="MG">MG</State>
         <City>Cristália</City>
-        <Address>Fazenda Santa Cruz</Address>
-        <StreetNumber>02</StreetNumber>
+        <Address>Fazenda Santa Cruz Rocinha</Address>
+        <StreetNumber>Lote 02</StreetNumber>
         <PostalCode>39598-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -1143,7 +1143,7 @@
         <City>Araçoiaba da Serra</City>
         <Address>Estrada do Gataz</Address>
         <StreetNumber>1</StreetNumber>
-        <PostalCode>18190-000</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -1275,10 +1275,10 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Brasília">Brasília</State>
-        <City>Águas Claras</City>
-        <Address>Quadra 203, Lote 3</Address>
-        <StreetNumber>Bloco D, Apartamento 1004</StreetNumber>
+        <State abbreviation="DF">DF</State>
+        <City>Brasília</City>
+        <Address>Praça Andorinha</Address>
+        <StreetNumber>203</StreetNumber>
         <PostalCode>71939-360</PostalCode>
       </Location>
       <ContactInfo>
@@ -1354,7 +1354,7 @@
         <City>Rio de Janeiro</City>
         <Address>Avenida Lucio Costa</Address>
         <StreetNumber>6400</StreetNumber>
-        <PostalCode>22630-010</PostalCode>
+        <PostalCode>22630-012</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -1464,548 +1464,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>4184983</ListingID>
-      <Title>VENDA DIRETA 40% DA AVALIAÇÃOV - loteamento São José do Braçanã, Lote nº 4, Quadra nº 4</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4184983</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">280000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="Estado exemplo">Estado exemplo</State>
-        <City>Cidade exemplo</City>
-        <Address>Rua exemplo</Address>
-        <StreetNumber>123</StreetNumber>
-        <PostalCode>00000-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4184981</ListingID>
-      <Title>VENDA DIRETA 40% DA AVALIAÇÃO - SALA 407 NA AVENIDA GOIÁS, Nº 112</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4184981</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">40000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4184987</ListingID>
-      <Title>VENDA DIRETA 40% DA AVALIAÇÃO - SALA COMERCIA - GOIANIA/GO</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4184987</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/bd0667fa-dc54-4070-86f5-c3b19d2eeaf5.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/6d4ca098-7f85-49d7-a426-7ccdbc14e28e.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/832e28c6-fa04-48d5-b763-948ca3a3474c.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/c3922f25-ca6d-4877-b8a0-cb1f511f33a3.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/c081a048-b9fa-409f-ac0b-b8a0568a0c84.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">40000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4184984</ListingID>
-      <Title>VENDA DIRETA 40% DA AVALIAÇÃO - Loteamento São José do Braçanã, Lote nº 6, Quadra nº 4</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4184984</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">280000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
-        <Address>Rua das Flores</Address>
-        <StreetNumber>123</StreetNumber>
-        <PostalCode>01234-567</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4184986</ListingID>
-      <Title>VENDA DIRETA 40% DA AVALIAÇÃO - Avenida Goiás, nº 112, sala 406</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4184986</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">40000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4184982</ListingID>
-      <Title>VENDA DIRETA 40% DA AVALIAÇÃO - Loteamento São José do Braçanã, Lote nº 5, Quadra nº 4</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4184982</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">280000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4184985</ListingID>
-      <Title>Loteamento Porto Bello, Lote nº 12, Quadra nº 4</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4184985</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://www.superbid.net/images/defaultImages/default.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">80000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
-        <Address>Rua dos Girassóis</Address>
-        <StreetNumber>123</StreetNumber>
-        <PostalCode>01234-567</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4213850</ListingID>
-      <Title>Venda Direta 40% da avaliação - Apartamento c/ 2 dormitórios -  Niterói/RJ</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4213850</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/13045c48-9450-4070-ab96-886926782b16.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">56000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4213849</ListingID>
-      <Title>VENDA DIRETA - Capela Inhaúma - Del Castilho, Rio de Janeiro/RJ</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4213849</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/7e5d1bab-b77d-4a8d-8ae1-40a635ab1731.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/bfc3a848-a2dc-48f8-a375-07ef349cceff.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/77ac9641-98db-4f1e-8bc1-7c944c0e8c7f.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">3600000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4210200</ListingID>
-      <Title>VENDA DIRETA 40% DA AVALIAÇÃO - PRÉDIO E TERRENO EM VIGÁRIO GERAL/RJ</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4210200</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/ff498294-a515-432e-96dc-c1eaab5ad2dc.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/72919a94-79b5-4cb2-996c-7e05e0dc580d.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b6a46444-56c2-4ebf-985b-13b7da553a7d.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/3a8dcc37-3b3b-4daa-a2e7-6a4a12d129eb.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/18a28033-1aef-4e78-b316-36784327e9fb.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/dd3e8a80-0bee-403d-9d1d-87553eb851a9.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">3642000</ListPrice>
-        <LivingArea unit="square metres">2.840</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RJ">RJ</State>
-        <City>Rio de Janeiro</City>
-        <Address>R. Mauro</Address>
-        <StreetNumber>150</StreetNumber>
-        <PostalCode>21241-110</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4211343</ListingID>
-      <Title>Apto 46m², Pitangueiras, em Guarujá/SP - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4211343</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c238a445-4a5e-4666-91fc-8732f17c3744.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/d86cbe8b-7357-43f1-960b-3109c78bfe15.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/9cc2bc4c-72d8-43d2-83d2-953c9b428c61.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/a692073e-7fbf-4403-8455-242601353359.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/c70755ed-9e27-465b-ad8f-9d30221c9756.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/3abbead9-8187-4fa7-8357-e22ae08b3692.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/5b7af20c-e22c-4a04-988f-b227f4d28a1b.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/47d4c984-2d3d-486a-a54b-7352a5cd378e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">288737.4</ListPrice>
-        <LivingArea unit="square metres">54</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Guarujá</City>
-        <Address>Avenida Leomil</Address>
-        <StreetNumber>1.213</StreetNumber>
-        <PostalCode>11410160</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4211385</ListingID>
-      <Title>Apto 48m² 1 vaga, Jardim Celeste, em São Paulo/SP - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4211385</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e73051e3-f9f8-4f34-8a56-a4b85c1f7582.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/714b926e-a016-475b-b90f-cd792bf5305f.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">478429.59</ListPrice>
-        <LivingArea unit="square metres">83</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
-        <Address>Rua Aquiles Jovane</Address>
-        <StreetNumber>109</StreetNumber>
-        <PostalCode>04195150</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4215447</ListingID>
-      <Title>Casa 206m²,  em Novo Airão/AM, - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4215447</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/d8f7c37a-5888-4759-9b5a-423dcedd1c18.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f41213ca-c57b-4cd0-859d-770d388b41c9.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">383270.6</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="AM">AM</State>
-        <City>Novo Airão</City>
-        <Address>Rua Josefa Savedra</Address>
-        <StreetNumber>Lote 20-A</StreetNumber>
-        <PostalCode>69730-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4215434</ListingID>
-      <Title>Casa 213m², Bairro Atlântida, em Xangri-lá/RS - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4215434</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/66563c75-85f0-4af5-ac25-7031825c8f79.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">1496082.04</ListPrice>
-        <LivingArea unit="square metres">570</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RS">RS</State>
-        <City>Xangri-Lá</City>
-        <Address>Rua Guatapi</Address>
-        <StreetNumber>961</StreetNumber>
-        <PostalCode>95588000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4215360</ListingID>
-      <Title>Casa 256m², Granja Vianna, em Cotia/SP - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4215360</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8edc81e5-4741-4d4a-82c0-895a267276a8.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/914e2fea-b3e2-4c81-8ccd-adbc5f4e5d23.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b84c4107-72f4-40d6-941c-ed081a10aa53.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/56d8410a-e5bb-4695-a0b3-b38651d1e9b3.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/7ccd0fa3-9f7b-462f-a11b-85271732a8c8.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/545c123a-eeb0-4718-ad0d-a4087047c8fa.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/ec647f0e-e114-496d-8d9d-3c554ae64e23.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">1488353.91</ListPrice>
-        <LivingArea unit="square metres">256</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Cotia</City>
-        <Address>Rua Anésio Martins de Siqueira</Address>
-        <StreetNumber>140</StreetNumber>
-        <PostalCode>06710-663</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4215436</ListingID>
-      <Title>Apto. 100m², Cidade Osfaya, em Luziânia/GO - Ocupado</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4215436</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/af6e0f12-2e50-4a8a-830b-d773e67bbdd4.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/ad6a8562-2cb2-4a67-8064-6bfc11bf1c72.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d49140e0-3bf4-41d0-9500-618040587b07.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/422293a7-2984-4b84-8c12-58c9a85e953b.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/4ff611fe-f834-45ce-b2d7-6d6fd62b182e.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">305000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="GO">GO</State>
-        <City>Luziânia</City>
-        <Address>Rua Primavera</Address>
-        <StreetNumber>lote A1, da quadra 20, apto. 103, Bloco F</StreetNumber>
-        <PostalCode>72855-623</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>4190964</ListingID>
       <Title>Lote Rural 72.600m² Desocupado em Anchieta/SC</Title>
       <TransactionType>For Sale</TransactionType>
@@ -2034,41 +1492,6 @@
         <State abbreviation="SC">SC</State>
         <City>Anchieta</City>
         <Address>Primeiro Perímetro da Gleba Três</Address>
-        <StreetNumber>s/n</StreetNumber>
-        <PostalCode>89970-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4190965</ListingID>
-      <Title>Lote Rural 54.250m² Desocupado em Santa Izabel do Oeste/PR</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4190965</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/9e0343a5-b327-4959-97cc-3a9a63952994.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/66c4d630-962e-4e15-8233-49bf5348fa0c.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/366fc8cc-2723-4824-aada-a743f9c30db9.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/96be8cc6-098a-4495-8a3b-4605093408e0.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">208000</ListPrice>
-        <LivingArea unit="square metres">54250</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="PR">PR</State>
-        <City>Santa Izabel do Oeste</City>
-        <Address>Gleba n° 33-AM</Address>
         <StreetNumber />
         <PostalCode />
       </Location>
@@ -2102,9 +1525,9 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">PR</State>
         <City>Ampére</City>
-        <Address>Loteamento Coohamper, Núcleo Ampére, Colônia Missões</Address>
-        <StreetNumber />
-        <PostalCode />
+        <Address>Loteamento Coohamper</Address>
+        <StreetNumber>s/n</StreetNumber>
+        <PostalCode>85760-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2138,8 +1561,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">PR</State>
         <City>Ampére</City>
-        <Address>Lote Urbano n° 06 da Quadra 581</Address>
-        <StreetNumber>S/N</StreetNumber>
+        <Address>Rua Amapá</Address>
+        <StreetNumber>06</StreetNumber>
         <PostalCode>85640-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -2174,8 +1597,8 @@
         <State abbreviation="PR">PR</State>
         <City>Santo Antonio do Sudoeste</City>
         <Address>Rua Duque de Caxias</Address>
-        <StreetNumber>Lote 4 Quadra 320</StreetNumber>
-        <PostalCode />
+        <StreetNumber>4</StreetNumber>
+        <PostalCode>85710-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2279,43 +1702,8 @@
         <State abbreviation="BA">BA</State>
         <City>Camaçari</City>
         <Address>Rua Colônia Boa União</Address>
-        <StreetNumber>Lote 02</StreetNumber>
+        <StreetNumber>Lote 02, Quadra GL-12, Apto 404, Bloco Azaléa</StreetNumber>
         <PostalCode>42821-798</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4341603</ListingID>
-      <Title>Casa 112m², Vila Perus, São Paulo/SP -  Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4341603</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e2b82044-638a-454d-91fd-e96992843388.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c50f35c0-4f89-4d6f-ae32-8a150e019566.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d440a329-fb82-4962-b3a3-ead2957083d8.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/2e886684-ad60-4fb3-9722-f37e01f9d974.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">424496.88</ListPrice>
-        <LivingArea unit="square metres">112</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
-        <Address>Rua Marcondes de Moura e Costa</Address>
-        <StreetNumber>89</StreetNumber>
-        <PostalCode>05206-180</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2352,44 +1740,6 @@
         <Address>Rua Alves Guimarães</Address>
         <StreetNumber>866</StreetNumber>
         <PostalCode>05410-001</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4323459</ListingID>
-      <Title>Apto. 179m², Jardim Três Marias, em Guarujá/SP - Ocupado</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4323459</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8790a5a4-814f-4744-9190-401d7a613264.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/a67b48a6-ebcd-4094-9e5a-6bf759cb81e8.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/73fa0a23-6164-43a6-9c16-cb5a4671bff2.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/c4652b95-cef7-4a3d-876e-2926ca152af5.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/212456b8-318c-41a2-bb84-0f49513fddd4.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/2b3a1d40-2097-4004-81b2-3c2a068123ee.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/60e60d52-6e3c-4db7-b234-bf959c124163.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">571183.27</ListPrice>
-        <LivingArea unit="square metres">179</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Guarujá</City>
-        <Address>Avenida Azor Gomes de Almeida</Address>
-        <StreetNumber>49</StreetNumber>
-        <PostalCode>11440-570</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2756,7 +2106,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">PR</State>
         <City>Capitão Leonidas Marques</City>
-        <Address />
+        <Address>Loteamento São Gabriel</Address>
         <StreetNumber />
         <PostalCode />
       </Location>
@@ -2795,7 +2145,7 @@
         <City>Capitão Leonidas Marques</City>
         <Address>Loteamento São Gabriel</Address>
         <StreetNumber>1</StreetNumber>
-        <PostalCode>85790-000</PostalCode>
+        <PostalCode>85635-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -2932,7 +2282,7 @@
         <State abbreviation="PR">PR</State>
         <City>Maringá</City>
         <Address>Rodovia Osvaldo Pacheco de Lacerda</Address>
-        <StreetNumber>s/n</StreetNumber>
+        <StreetNumber>PR 323</StreetNumber>
         <PostalCode />
       </Location>
       <ContactInfo>
@@ -3012,9 +2362,9 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">PR</State>
         <City>Pinhão</City>
-        <Address>Gleba D do imóvel Arroio Bonito</Address>
-        <StreetNumber />
-        <PostalCode />
+        <Address>Gleba D</Address>
+        <StreetNumber>s/n</StreetNumber>
+        <PostalCode>85487-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3155,108 +2505,6 @@
       </ContactInfo>
     </Listing>
     <Listing>
-      <ListingID>4343898</ListingID>
-      <Title>Casa 216m², Cidade Nova, Rio Grande/RS - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4343898</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/af400590-8aee-4daa-b843-a7401dc8984d.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/e033c5d4-3683-4bab-a337-867c0e3bbcff.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">331410</ListPrice>
-        <LivingArea unit="square metres">216</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="RS">RS</State>
-        <City>Rio Grande</City>
-        <Address>Rua Domingos de Almeida</Address>
-        <StreetNumber>715</StreetNumber>
-        <PostalCode>96211-580</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4344799</ListingID>
-      <Title>Casa 325m², Jardim das Palmeiras, Lucas do Rio Verde/MT - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4344799</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/6eecb6d5-1922-4fe3-bc1b-8d3fc3c13d14.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/d27fbaf6-7d78-421b-b7c4-38ee43692c33.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/094a3dc7-91f8-47e9-bc07-62c59511a8de.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">614587.43</ListPrice>
-        <LivingArea unit="square metres">325</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="MT">MT</State>
-        <City>Lucas do Rio Verde</City>
-        <Address>Rua Medianeira</Address>
-        <StreetNumber>260S</StreetNumber>
-        <PostalCode>78462-017</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4344773</ListingID>
-      <Title>Casa 115m², Residencial Buena Vista IV, Goiânia/GO - Ocupada</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4344773</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/cbaff002-f6d5-41da-9caf-cf008339b731.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/43c7cff9-6bf6-41dc-8dae-9703830fa5ee.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/94ddaeb9-c680-45db-9802-0bb5e6abdda1.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/334e53bd-4322-484b-ba86-39dffeec5d95.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">228213.69</ListPrice>
-        <LivingArea unit="square metres">115</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="GO">GO</State>
-        <City>Goiânia</City>
-        <Address>Rua Porto Gomes</Address>
-        <StreetNumber>s/n</StreetNumber>
-        <PostalCode>74394-535</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
       <ListingID>4343077</ListingID>
       <Title>Apto. 114m, Guaxuma, em Maceió/AL - Ocupado</Title>
       <TransactionType>For Sale</TransactionType>
@@ -3353,7 +2601,7 @@
         <State abbreviation="SC">SC</State>
         <City>Joinville</City>
         <Address>Rua Padre Kolb</Address>
-        <StreetNumber>1.273</StreetNumber>
+        <StreetNumber>1273</StreetNumber>
         <PostalCode>89202350</PostalCode>
       </Location>
       <ContactInfo>
@@ -3431,10 +2679,10 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
+        <City>Capela do Socorro</City>
         <Address>Rua Projetada (Rua Hercilia Guerra Luz)</Address>
         <StreetNumber>313</StreetNumber>
-        <PostalCode>04857-090</PostalCode>
+        <PostalCode>CEP não fornecido</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -3614,7 +2862,7 @@
         <State abbreviation="GO">GO</State>
         <City>Goiânia</City>
         <Address>Rua RDG-05</Address>
-        <StreetNumber>casa 02, lote nº 15</StreetNumber>
+        <StreetNumber>casa 02</StreetNumber>
         <PostalCode>74485-770</PostalCode>
       </Location>
       <ContactInfo>
@@ -3839,8 +3087,8 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Pongaí</City>
+        <State abbreviation="Pongaí">Pongaí</State>
+        <City>Sucuri</City>
         <Address>Estr. Municipal De Pongai A Uru Km 8</Address>
         <StreetNumber>S/N</StreetNumber>
         <PostalCode>16600000</PostalCode>
@@ -4072,7 +3320,7 @@
         <State abbreviation="SP">SP</State>
         <City>Piracicaba</City>
         <Address>Avenida Dois Córregos</Address>
-        <StreetNumber>2696</StreetNumber>
+        <StreetNumber>2.696</StreetNumber>
         <PostalCode>13420-835</PostalCode>
       </Location>
       <ContactInfo>
@@ -4245,7 +3493,7 @@
         <State abbreviation="SC">SC</State>
         <City>Criciúma</City>
         <Address>Rua SD1940-50</Address>
-        <StreetNumber>1941-050</StreetNumber>
+        <StreetNumber>nº1941-050</StreetNumber>
         <PostalCode>88812-305</PostalCode>
       </Location>
       <ContactInfo>
@@ -4319,7 +3567,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="MT">MT</State>
         <City>Cuiabá</City>
-        <Address>Avenida Miguel Sutil, esq. Rua Onze de Maio</Address>
+        <Address>Avenida Miguel Sutil</Address>
         <StreetNumber>S/n</StreetNumber>
         <PostalCode>78158-720</PostalCode>
       </Location>
@@ -5049,7 +4297,7 @@
         <State abbreviation="SC">SC</State>
         <City>Siderópolis</City>
         <Address>Rio Manin</Address>
-        <StreetNumber>Lote 20</StreetNumber>
+        <StreetNumber>nºLote 20</StreetNumber>
         <PostalCode />
       </Location>
       <ContactInfo>
@@ -5089,8 +4337,8 @@
         <State abbreviation="PA">PA</State>
         <City>Belém</City>
         <Address>Av. Augusto Montenegro</Address>
-        <StreetNumber>1037</StreetNumber>
-        <PostalCode>66087-530</PostalCode>
+        <StreetNumber>1.037</StreetNumber>
+        <PostalCode>66635-110</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5360,8 +4608,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
         <City>São Paulo</City>
-        <Address>R. Formosa</Address>
-        <StreetNumber>367</StreetNumber>
+        <Address>R. Formosa, 367 e Pça Ramos de Azevedo, 206</Address>
+        <StreetNumber />
         <PostalCode>01037-910</PostalCode>
       </Location>
       <ContactInfo>
@@ -5574,7 +4822,7 @@
         <City>Rio de Janeiro</City>
         <Address>Rua Alfandega</Address>
         <StreetNumber>21</StreetNumber>
-        <PostalCode />
+        <PostalCode>20070-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5800,7 +5048,7 @@
         <City>São Paulo</City>
         <Address>Rua Penaforte Mendes</Address>
         <StreetNumber>160</StreetNumber>
-        <PostalCode />
+        <PostalCode>CEP não fornecido</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -5979,7 +5227,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
         <City>Piracicaba</City>
-        <Address>Av Comendador Luciano Guidotti</Address>
+        <Address>Av. Comendador Luciano Guidotti</Address>
         <StreetNumber>1070</StreetNumber>
         <PostalCode>13417-370</PostalCode>
       </Location>
@@ -6188,7 +5436,7 @@
         <City>Rio de Janeiro</City>
         <Address>Av. Rio Branco</Address>
         <StreetNumber>147</StreetNumber>
-        <PostalCode>20040-001</PostalCode>
+        <PostalCode>20040-009</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6447,6 +5695,41 @@
       </ContactInfo>
     </Listing>
     <Listing>
+      <ListingID>4155254</ListingID>
+      <Title>Apto Duplex 286m², 5 vagas, Ocupado no Morumbi em São Paulo/SP</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/4155254</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/e388fb8f-735c-4f92-ada2-ab89b628e61f.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/77688960-1c9c-4add-91bf-e5e58c585602.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/d43e4b32-2320-49bf-950f-60db84dba6dc.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/19e5cba0-c0fc-4053-8d06-68d07780d35e.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">1549600</ListPrice>
+        <LivingArea unit="square metres">736</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Address>Rua Adalívia de Toledo</Address>
+        <StreetNumber>247</StreetNumber>
+        <PostalCode>05619-210</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
       <ListingID>4157284</ListingID>
       <Title>Apto 68m² 1 vaga Desocupado no Jardim Proença em Campinas/SP</Title>
       <TransactionType>For Sale</TransactionType>
@@ -6494,7 +5777,7 @@
         <City>Campinas</City>
         <Address>Rua Joaquim de Paula Souza</Address>
         <StreetNumber>453</StreetNumber>
-        <PostalCode>13026-051</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6526,7 +5809,7 @@
         <City>Jundiaí</City>
         <Address>Avenida Antonio Frederico Ozanan</Address>
         <StreetNumber>10.790</StreetNumber>
-        <PostalCode>13213-903</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6591,7 +5874,7 @@
         <City>Piracicaba</City>
         <Address>Avenida Doutor Edgar Conceição</Address>
         <StreetNumber>778</StreetNumber>
-        <PostalCode>00000-000</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6687,7 +5970,7 @@
         <City>Jundiaí</City>
         <Address>Rua Eugenio Lacerda</Address>
         <StreetNumber>197</StreetNumber>
-        <PostalCode>13209-763</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -6738,34 +6021,63 @@
       <DetailViewUrl>https://www.superbid.net/oferta/4359397</DetailViewUrl>
       <Media>
         <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/dd80d3a9-c477-49ad-b7b1-b7883f9eae0e.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c7daf2be-12f9-4e49-a97d-e192c61dfc75.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/dd11ceb2-6265-437f-a9ee-18e33e1cf25c.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/7f2e454f-7b46-4f24-84c3-2c8d0dd4d088.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/a66f07c5-1db9-4102-8552-340b7014ae4a.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/9b72d0b0-cdc7-4a57-9787-894c1d720eed.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/88d58fa7-b45c-49c1-9ef2-2a161c2912e9.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/ddade29d-6ba3-454d-941a-1192d1dec6a1.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/cc877154-3b5c-4ade-8fa3-ba208d979fe8.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/c805f6b9-dfe4-4080-a1fb-9fd321f3cb5f.jpg</Item>
-        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/f12ee2c9-becc-48c9-9e36-b6dfb560d1e2.jpg</Item>
-        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/e8f5c4eb-ff30-43a8-a295-a5994bf3b340.jpg</Item>
-        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/fe2c5d62-6ee7-4270-912b-e3ca0540a4af.jpg</Item>
-        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/345a86bf-2277-4a31-aeac-323154a7469d.jpg</Item>
-        <Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/682836ee-ac28-49e6-9958-d48d3d8adc0a.jpg</Item>
-        <Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/0a9e7871-c779-4d71-bbf0-208da5522271.jpg</Item>
-        <Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/3b01823e-a65b-47d6-94a2-165ac914965c.jpg</Item>
-        <Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/28f8cf51-c3a2-4ccc-b017-910ef1c12b3a.jpg</Item>
-        <Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/14dfb3e3-9e91-4221-9a08-c9c092009084.jpg</Item>
-        <Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/eb45736d-b470-4fd8-b0bb-9625c54a532a.jpg</Item>
-        <Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/090e0029-f522-4c66-b14a-5a49f3fc4e1d.jpg</Item>
-        <Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/7c6ec4e0-b73b-47c2-92a3-107aa8e219ac.jpg</Item>
-        <Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/1a2d42e9-fe0f-4220-aa97-dd8c69f97f1d.jpg</Item>
-        <Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/490631e8-07cb-4a2b-9dfa-74b0a78054a2.jpg</Item>
-        <Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/06c92d4e-c5a3-4326-bc44-8fc59a6daf83.jpg</Item>
-        <Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/34edb7c0-6d4e-42e3-b83a-54339cbaeb74.jpg</Item>
-        <Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/089724b0-85b6-46a1-9a5f-2fe0d8a31ab2.jpg</Item>
-        <Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/98554226-c4c9-4c10-a4aa-24414935e5e9.jpg</Item>
-        <Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/d89263b4-f7bf-4e3d-bd00-255f310f2764.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c39cf23c-2123-4d01-9ffb-9546fbb96c8a.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/c7daf2be-12f9-4e49-a97d-e192c61dfc75.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/f2fa1d10-fff4-496a-83ec-c27fbfb00ec7.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/dd11ceb2-6265-437f-a9ee-18e33e1cf25c.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/185a3aae-965b-4e71-81e1-4c2e6c97b24c.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/7f2e454f-7b46-4f24-84c3-2c8d0dd4d088.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/393ecd28-baa5-47dc-9589-193d6dd7cab9.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/a66f07c5-1db9-4102-8552-340b7014ae4a.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/15c7819b-2c66-4c4d-b37b-56ff7dafb222.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/9b72d0b0-cdc7-4a57-9787-894c1d720eed.jpg</Item>
+        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/7f507031-4579-4b99-8d98-48748b70f080.jpg</Item>
+        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/88d58fa7-b45c-49c1-9ef2-2a161c2912e9.jpg</Item>
+        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/aa305b29-0c64-47b8-8e39-d1cfc72711bc.jpg</Item>
+        <Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/ddade29d-6ba3-454d-941a-1192d1dec6a1.jpg</Item>
+        <Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/1614e6d9-5e53-40b5-8de0-9fef0bed0c0a.jpg</Item>
+        <Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/cc877154-3b5c-4ade-8fa3-ba208d979fe8.jpg</Item>
+        <Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/ebe745c6-ec74-47f3-89b4-121b846e2cb5.jpg</Item>
+        <Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/c805f6b9-dfe4-4080-a1fb-9fd321f3cb5f.jpg</Item>
+        <Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/06aca124-6d7c-4d1a-b34b-46a81aa98397.jpg</Item>
+        <Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/f12ee2c9-becc-48c9-9e36-b6dfb560d1e2.jpg</Item>
+        <Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/3a965172-71bf-4340-a6f3-036f1821f0ab.jpg</Item>
+        <Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/e8f5c4eb-ff30-43a8-a295-a5994bf3b340.jpg</Item>
+        <Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/3c0339fa-c6ce-450c-9aae-302bab9dba79.jpg</Item>
+        <Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/fe2c5d62-6ee7-4270-912b-e3ca0540a4af.jpg</Item>
+        <Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/97cdf8c6-30a0-483d-8424-42f474401f03.jpg</Item>
+        <Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/345a86bf-2277-4a31-aeac-323154a7469d.jpg</Item>
+        <Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/0df68393-9e2e-4b04-b26b-2527f35cb141.jpg</Item>
+        <Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/682836ee-ac28-49e6-9958-d48d3d8adc0a.jpg</Item>
+        <Item medium="image" caption="img30">https://ms.sbwebservices.net/photos/5ee4341b-c0e6-4d51-9546-3b7359826bfb.jpg</Item>
+        <Item medium="image" caption="img31">https://ms.sbwebservices.net/photos/0a9e7871-c779-4d71-bbf0-208da5522271.jpg</Item>
+        <Item medium="image" caption="img32">https://ms.sbwebservices.net/photos/12263140-d98e-4ed5-b60e-be2e23691985.jpg</Item>
+        <Item medium="image" caption="img33">https://ms.sbwebservices.net/photos/3b01823e-a65b-47d6-94a2-165ac914965c.jpg</Item>
+        <Item medium="image" caption="img34">https://ms.sbwebservices.net/photos/b2faba39-c950-4a9d-8e82-4658aec4f523.jpg</Item>
+        <Item medium="image" caption="img35">https://ms.sbwebservices.net/photos/28f8cf51-c3a2-4ccc-b017-910ef1c12b3a.jpg</Item>
+        <Item medium="image" caption="img36">https://ms.sbwebservices.net/photos/85ecd297-65ca-48d6-b10b-15f6cdf092af.jpg</Item>
+        <Item medium="image" caption="img37">https://ms.sbwebservices.net/photos/14dfb3e3-9e91-4221-9a08-c9c092009084.jpg</Item>
+        <Item medium="image" caption="img38">https://ms.sbwebservices.net/photos/3492f8cd-9de3-4014-92e6-3f308b2e2d42.jpg</Item>
+        <Item medium="image" caption="img39">https://ms.sbwebservices.net/photos/eb45736d-b470-4fd8-b0bb-9625c54a532a.jpg</Item>
+        <Item medium="image" caption="img40">https://ms.sbwebservices.net/photos/dc246d44-65d9-4f70-88ae-962b917993a0.jpg</Item>
+        <Item medium="image" caption="img41">https://ms.sbwebservices.net/photos/090e0029-f522-4c66-b14a-5a49f3fc4e1d.jpg</Item>
+        <Item medium="image" caption="img42">https://ms.sbwebservices.net/photos/610e374b-4cb9-4c65-9180-646559e48def.jpg</Item>
+        <Item medium="image" caption="img43">https://ms.sbwebservices.net/photos/7c6ec4e0-b73b-47c2-92a3-107aa8e219ac.jpg</Item>
+        <Item medium="image" caption="img44">https://ms.sbwebservices.net/photos/2ced59d3-0a98-4c9e-a1f7-d17f69638ebf.jpg</Item>
+        <Item medium="image" caption="img45">https://ms.sbwebservices.net/photos/1a2d42e9-fe0f-4220-aa97-dd8c69f97f1d.jpg</Item>
+        <Item medium="image" caption="img46">https://ms.sbwebservices.net/photos/3201a197-2f2a-4db2-b956-341aa280b8ab.jpg</Item>
+        <Item medium="image" caption="img47">https://ms.sbwebservices.net/photos/490631e8-07cb-4a2b-9dfa-74b0a78054a2.jpg</Item>
+        <Item medium="image" caption="img48">https://ms.sbwebservices.net/photos/95943f2d-d855-433b-9203-a1050bf68511.jpg</Item>
+        <Item medium="image" caption="img49">https://ms.sbwebservices.net/photos/06c92d4e-c5a3-4326-bc44-8fc59a6daf83.jpg</Item>
+        <Item medium="image" caption="img50">https://ms.sbwebservices.net/photos/b1871fcd-c72e-42d0-9535-0eacb30274e9.jpg</Item>
+        <Item medium="image" caption="img51">https://ms.sbwebservices.net/photos/34edb7c0-6d4e-42e3-b83a-54339cbaeb74.jpg</Item>
+        <Item medium="image" caption="img52">https://ms.sbwebservices.net/photos/58ea245a-ee27-46fd-9a26-8ec3744a0155.jpg</Item>
+        <Item medium="image" caption="img53">https://ms.sbwebservices.net/photos/089724b0-85b6-46a1-9a5f-2fe0d8a31ab2.jpg</Item>
+        <Item medium="image" caption="img54">https://ms.sbwebservices.net/photos/4a59fef9-b510-4ce0-aaaf-5aaafbd08088.jpg</Item>
+        <Item medium="image" caption="img55">https://ms.sbwebservices.net/photos/98554226-c4c9-4c10-a4aa-24414935e5e9.jpg</Item>
+        <Item medium="image" caption="img56">https://ms.sbwebservices.net/photos/c99b589e-7bf3-4e27-b8cd-56afe8c5b247.jpg</Item>
+        <Item medium="image" caption="img57">https://ms.sbwebservices.net/photos/d89263b4-f7bf-4e3d-bd00-255f310f2764.jpg</Item>
+        <Item medium="image" caption="img58">https://ms.sbwebservices.net/photos/bc6deadf-d6f3-4279-9be5-05e2eab7ce45.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -6778,7 +6090,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SC">SC</State>
-        <City>Balneário Rincao</City>
+        <City>Balneario Rincao</City>
         <Address>Rua Antonio Millioli</Address>
         <StreetNumber>281</StreetNumber>
         <PostalCode>88828000</PostalCode>
@@ -6999,7 +6311,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="PR">PR</State>
-        <City>Campos Do Iguaçu</City>
+        <City>Foz do Iguaçu</City>
         <Address>Rua Buenos Aires</Address>
         <StreetNumber>1140</StreetNumber>
         <PostalCode>85858140</PostalCode>
@@ -7410,7 +6722,7 @@
       <Details>
         <UsageType>Residential</UsageType>
         <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">167000</ListPrice>
+        <ListPrice currency="BRL">170000</ListPrice>
         <LivingArea unit="square metres">100</LivingArea>
         <Bedrooms>2</Bedrooms>
         <Bathrooms>1</Bathrooms>
@@ -7607,7 +6919,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="RJ">RJ</State>
-        <City>Maricá</City>
+        <City>Mumbuca</City>
         <Address>Rua Das Dalias</Address>
         <StreetNumber>192</StreetNumber>
         <PostalCode>24914040</PostalCode>
@@ -7627,8 +6939,11 @@
       <DetailViewUrl>https://www.superbid.net/oferta/4347174</DetailViewUrl>
       <Media>
         <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/9b25207e-846a-4c62-830f-5f935ac0eb72.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4aa65e59-47c5-4230-be8e-f33f4ca79f23.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/257f6b90-8d61-4065-86bb-fe766c6ad3ec.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c141e152-70bb-4e38-b618-83b4a194a659.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/4aa65e59-47c5-4230-be8e-f33f4ca79f23.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/0558559b-6df4-423b-b678-448a039da145.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/257f6b90-8d61-4065-86bb-fe766c6ad3ec.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/c05c1f4a-c2e2-47ef-8bc6-afe4e894c6e9.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -7892,8 +7207,11 @@
       <DetailViewUrl>https://www.superbid.net/oferta/4359404</DetailViewUrl>
       <Media>
         <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/c5100090-fb10-47a5-875c-6d99b4f1b75f.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/f03b5194-9457-426f-8851-bd1810b5ff39.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/45a5dd70-b745-4e36-92d9-33ed5b357181.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/b502bc60-ef02-40a8-be3e-088e9b652cbb.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/f03b5194-9457-426f-8851-bd1810b5ff39.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/877bec5b-270a-44f8-b604-8bd1c75c3ee8.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/45a5dd70-b745-4e36-92d9-33ed5b357181.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/8655e31e-e94b-4b88-bc03-db1249d7f5ec.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -8091,8 +7409,11 @@
       <DetailViewUrl>https://www.superbid.net/oferta/4347170</DetailViewUrl>
       <Media>
         <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/0b8f87c5-2170-4122-85cc-632b3bd4387d.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/de4e7bda-11ed-424b-88a7-940edf1a60ff.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/54b76e83-7434-40b8-98cc-9435d86d03a8.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/1ea189d7-3fd2-4d20-9d76-16b14b38fb49.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/de4e7bda-11ed-424b-88a7-940edf1a60ff.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/33c63812-1a4f-43f1-ab06-7032b9cc2f26.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/54b76e83-7434-40b8-98cc-9435d86d03a8.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/fecfdad5-a2a5-4682-9141-c53fca0b2126.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -8236,7 +7557,7 @@
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
-        <City>Santa Terezinha</City>
+        <City>Lorena</City>
         <Address>Rua Pernambuco</Address>
         <StreetNumber>975</StreetNumber>
         <PostalCode>12609260</PostalCode>
@@ -8256,12 +7577,19 @@
       <DetailViewUrl>https://www.superbid.net/oferta/4359393</DetailViewUrl>
       <Media>
         <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/7802c4da-242e-4a1c-938e-32e536feebcb.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/64ac709b-6be2-4c66-9482-2c4968fd753c.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/f6392f31-0f50-4ad4-a690-49224cf1e6d8.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/c7760b32-f294-4d5a-b6a1-d23f07e3087c.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/d7181848-b079-437a-a455-4fdfe52b449f.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/6f9582a2-edd7-4fb8-9c6d-73506e6df644.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/5b9d4b15-3b62-4cfe-ab4a-385e2d0fa201.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/6fae0c01-b52e-4036-b893-7f4f302147a5.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/64ac709b-6be2-4c66-9482-2c4968fd753c.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/1aa23cd7-3a51-47b5-ac0a-8d63b4f3e065.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/f6392f31-0f50-4ad4-a690-49224cf1e6d8.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/087f4d63-4d12-475f-8cb3-ec133ffc69ab.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/c7760b32-f294-4d5a-b6a1-d23f07e3087c.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/dd8005f3-ce64-4731-9571-7fef69681348.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/d7181848-b079-437a-a455-4fdfe52b449f.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/dd42e23c-b596-4439-bb2b-d21c4a6bc46a.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/6f9582a2-edd7-4fb8-9c6d-73506e6df644.jpg</Item>
+        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/dfcf4fc6-1e77-4a17-a3fd-882c448424db.jpg</Item>
+        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/5b9d4b15-3b62-4cfe-ab4a-385e2d0fa201.jpg</Item>
+        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/1fd12951-74b9-4a4a-968d-88e4ab69ed86.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -8414,7 +7742,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="RJ">RJ</State>
         <City>Cachoeiras De Macacu</City>
-        <Address>Al. Tupiniquim Vila Indiana</Address>
+        <Address>Al. Tupiniquim</Address>
         <StreetNumber>S/N</StreetNumber>
         <PostalCode>28680000</PostalCode>
       </Location>
@@ -8536,8 +7864,11 @@
       <DetailViewUrl>https://www.superbid.net/oferta/4347175</DetailViewUrl>
       <Media>
         <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/05b983cc-e21a-420e-b9d9-9f91491d9bed.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4f992327-5e8d-4a2b-a7da-68e502e2cc66.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/1089124b-ac5d-474f-8bad-1e0369eaeadd.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/4f71e483-6c14-409e-8600-e0b434938705.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/4f992327-5e8d-4a2b-a7da-68e502e2cc66.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/66195b33-8f19-445d-acb3-d191a7fa4066.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/1089124b-ac5d-474f-8bad-1e0369eaeadd.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/c06a4949-2cbf-4d80-904e-3fa18889e5f6.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -9400,7 +8731,7 @@
         <City>Bebedouro</City>
         <Address>Rua Paschoal Campaneli</Address>
         <StreetNumber>291</StreetNumber>
-        <PostalCode>14701-160</PostalCode>
+        <PostalCode>14712-006</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9433,7 +8764,7 @@
         <City>Onda Verde</City>
         <Address>Avenida 09 de Julho</Address>
         <StreetNumber>130</StreetNumber>
-        <PostalCode>15460-000</PostalCode>
+        <PostalCode>15413-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9463,11 +8794,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Address>Av. Paulista</Address>
+        <StreetNumber>1234</StreetNumber>
+        <PostalCode>01310-100</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9565,11 +8896,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="São Paulo">São Paulo</State>
-        <City>São Paulo</City>
+        <State abbreviation="" />
+        <City />
         <Address>Estr. Francisco Ortiz de Moraes</Address>
         <StreetNumber>s/n</StreetNumber>
-        <PostalCode>00000-000</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9697,11 +9028,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
+        <State abbreviation="Pará">Pará</State>
+        <City>Cidade Velha</City>
+        <Address>Rua dos Bobos</Address>
+        <StreetNumber>0</StreetNumber>
+        <PostalCode>66020-300</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9763,11 +9094,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
+        <State abbreviation="Estado exemplo">Estado exemplo</State>
+        <City>Cidade exemplo</City>
+        <Address>Rua exemplo</Address>
+        <StreetNumber>123</StreetNumber>
+        <PostalCode>12345-678</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9829,11 +9160,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
-        <Address>Av. Paulista</Address>
-        <StreetNumber>1000</StreetNumber>
-        <PostalCode>01310-100</PostalCode>
+        <State abbreviation="" />
+        <City />
+        <Address />
+        <StreetNumber />
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9862,11 +9193,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="UF">UF</State>
-        <City>Cidade do exemplo</City>
-        <Address>Rua do exemplo</Address>
-        <StreetNumber>123</StreetNumber>
-        <PostalCode>12345-678</PostalCode>
+        <State abbreviation="" />
+        <City />
+        <Address />
+        <StreetNumber />
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -9899,7 +9230,7 @@
         <State abbreviation="SP">SP</State>
         <City>São Paulo</City>
         <Address>Rua 13 de Maio</Address>
-        <StreetNumber>1.429</StreetNumber>
+        <StreetNumber>1.429, nº 08, 9º pavimento do Edifício Amélia</StreetNumber>
         <PostalCode>01327-001</PostalCode>
       </Location>
       <ContactInfo>
@@ -10045,7 +9376,7 @@
         <State abbreviation="SP">SP</State>
         <City>Ribeirão Preto</City>
         <Address>Avenida Coronel Fernando Ferreira Leite</Address>
-        <StreetNumber>535</StreetNumber>
+        <StreetNumber>535, Apto.523</StreetNumber>
         <PostalCode>14026282</PostalCode>
       </Location>
       <ContactInfo>
@@ -10057,7 +9388,7 @@
     </Listing>
     <Listing>
       <ListingID>4361667</ListingID>
-      <Title>Apto 66m², Ocupado, 1 Vaga na Vila Itapura em Campinas/SP</Title>
+      <Title>Apto 66m², Desocupado, 1 Vaga na Vila Itapura em Campinas/SP</Title>
       <TransactionType>For Sale</TransactionType>
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://www.superbid.net/oferta/4361667</DetailViewUrl>
@@ -10205,7 +9536,7 @@
         <State abbreviation="SP">SP</State>
         <City>São Paulo</City>
         <Address>Rua Catão</Address>
-        <StreetNumber>1.487</StreetNumber>
+        <StreetNumber>1487</StreetNumber>
         <PostalCode>050049-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -10278,7 +9609,7 @@
         <City>Rio de Janeiro</City>
         <Address>Avenida Embaixador Abelardo Bueno</Address>
         <StreetNumber>3300</StreetNumber>
-        <PostalCode>22775-040</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -10642,7 +9973,7 @@
         <State abbreviation="GO">GO</State>
         <City>Quirinópolis</City>
         <Address>Rua Alegre</Address>
-        <StreetNumber>Quadra 184, Lote 03</StreetNumber>
+        <StreetNumber>03</StreetNumber>
         <PostalCode>75860-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -10783,8 +10114,8 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>São Paulo</City>
+        <State abbreviation="São Paulo">São Paulo</State>
+        <City>Saúde</City>
         <Address>Rua Alexandre Rapin</Address>
         <StreetNumber>52</StreetNumber>
         <PostalCode>04195-110</PostalCode>
@@ -10822,7 +10153,7 @@
         <City>Campos dos Goytacazes</City>
         <Address>Rua Visconde de Itaboraí</Address>
         <StreetNumber>631</StreetNumber>
-        <PostalCode>28026148</PostalCode>
+        <PostalCode>28026-148</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -10857,40 +10188,7 @@
         <City>Manaus</City>
         <Address>Avenida Antônio Sergio Vieira Alves</Address>
         <StreetNumber>1.768</StreetNumber>
-        <PostalCode>69098-023</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4361674</ListingID>
-      <Title>Casa 125m², Alugada/Ocupada, no Parque São Bento em Sorocaba/SP</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4361674</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/dd95f666-2ba8-4f25-95cf-f6cb1eae6702.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/79185a7a-ec12-487f-8c82-6b7b4503323f.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">123000</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Sorocaba</City>
-        <Address>Rua Marcos Alexandre de Mattos</Address>
-        <StreetNumber>16</StreetNumber>
-        <PostalCode>18072-007</PostalCode>
+        <PostalCode>69098-603</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -10923,7 +10221,7 @@
         <State abbreviation="GO">GO</State>
         <City>Rio Verde</City>
         <Address>Rua André Luiz</Address>
-        <StreetNumber>Lote 08</StreetNumber>
+        <StreetNumber>Lote 08, Quadra 15, Parte B</StreetNumber>
         <PostalCode>75902-201</PostalCode>
       </Location>
       <ContactInfo>
@@ -11141,7 +10439,7 @@
         <City>São Paulo</City>
         <Address>Avenida Brigadeiro Luiz Antonio</Address>
         <StreetNumber>2068</StreetNumber>
-        <PostalCode>01317-004</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -11183,7 +10481,7 @@
         <City>São Paulo</City>
         <Address>Avenida Brigadeiro Luiz Antonio</Address>
         <StreetNumber>2068</StreetNumber>
-        <PostalCode>01318-002</PostalCode>
+        <PostalCode />
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -11273,7 +10571,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="DF">DF</State>
         <City>Brasília</City>
-        <Address>SHLS - Asa Sul</Address>
+        <Address>SHLS</Address>
         <StreetNumber />
         <PostalCode>70390-700</PostalCode>
       </Location>
@@ -11310,8 +10608,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="DF">DF</State>
         <City>Brasília</City>
-        <Address>SEPS SHIGS 712</Address>
-        <StreetNumber>BLOCO I</StreetNumber>
+        <Address>SEPS SHIGS 712 BLOCO I</Address>
+        <StreetNumber />
         <PostalCode>70361-750</PostalCode>
       </Location>
       <ContactInfo>
@@ -11388,7 +10686,7 @@
         <State abbreviation="DF">DF</State>
         <City>Brasília</City>
         <Address>SEPS SHIGS 712</Address>
-        <StreetNumber>Bloco I</StreetNumber>
+        <StreetNumber>BLOCO I</StreetNumber>
         <PostalCode>70361-750</PostalCode>
       </Location>
       <ContactInfo>
@@ -11428,7 +10726,45 @@
         <City>PORTO ALEGRE</City>
         <Address>RUA BERTHA LOFORTE GONÇALVES</Address>
         <StreetNumber>35</StreetNumber>
-        <PostalCode>CEP do endereço</PostalCode>
+        <PostalCode>00000-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>4365416</ListingID>
+      <Title>1 Loja Comercial e 1 vaga no bairro Asa Norte em Brasília/DF - Desocupada</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/4365416</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/f362b429-b086-4b8a-9f1e-5a1e820f57c4.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/6c46ea84-6313-4af4-92eb-1ce1f65650fc.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/b771984f-7bcb-461b-a977-858fd16b6b5c.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/f081790c-9a87-4583-b883-4564eca4d9e0.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/83730ba0-cb22-4d2f-b920-70097460e525.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/55866ffa-8f2a-490c-9619-486071940550.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/17c6e07e-6101-47af-97b8-ced0e107baa5.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Commercial</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">467591.6</ListPrice>
+        <LivingArea unit="square metres">116</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="DF">DF</State>
+        <City>Brasília</City>
+        <Address>Setor Médico Hospitalar Norte</Address>
+        <StreetNumber>S/N</StreetNumber>
+        <PostalCode>70710-100</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -11467,8 +10803,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="DF">DF</State>
         <City>Brasília</City>
-        <Address>SEPS SHIGS 712</Address>
-        <StreetNumber>BLOCO I</StreetNumber>
+        <Address>SEPS SHIGS 712 BLOCO I</Address>
+        <StreetNumber>S/N</StreetNumber>
         <PostalCode>70361-750</PostalCode>
       </Location>
       <ContactInfo>
@@ -11865,7 +11201,7 @@
         <State abbreviation="PE">PE</State>
         <City>Ipojuca</City>
         <Address>Rua Babaçu</Address>
-        <StreetNumber>s/nº, apto. 203</StreetNumber>
+        <StreetNumber>s/nº, apto. 203, lote 1-A</StreetNumber>
         <PostalCode>55593-054</PostalCode>
       </Location>
       <ContactInfo>
@@ -12133,11 +11469,11 @@
       </Details>
       <Location displayAddress="Street">
         <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="" />
-        <City />
-        <Address />
-        <StreetNumber />
-        <PostalCode />
+        <State abbreviation="Estado exemplo">Estado exemplo</State>
+        <City>Cidade exemplo</City>
+        <Address>Rua exemplo</Address>
+        <StreetNumber>123</StreetNumber>
+        <PostalCode>00000-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -12172,9 +11508,9 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="São Paulo">São Paulo</State>
         <City>Itararé</City>
-        <Address>Rua Bom Sucesso</Address>
-        <StreetNumber />
-        <PostalCode />
+        <Address>Rua dos Girassóis</Address>
+        <StreetNumber>123</StreetNumber>
+        <PostalCode>18460-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -12215,42 +11551,8 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="São Paulo">São Paulo</State>
         <City>Itararé</City>
-        <Address>Rua dos Girassóis</Address>
+        <Address>Rua Bom Sucesso</Address>
         <StreetNumber>123</StreetNumber>
-        <PostalCode>18460-000</PostalCode>
-      </Location>
-      <ContactInfo>
-        <Name>Superbid Webservices LTDA</Name>
-        <Email>kelly.teruya@superbid.net</Email>
-        <Website>http://www.superbid.net</Website>
-        <Telephone>(11) 3150-4646</Telephone>
-      </ContactInfo>
-    </Listing>
-    <Listing>
-      <ListingID>4216360</ListingID>
-      <Title>Imóvel rural, A.T. 48.400m², Bairro Bom Sucesso, Sítio Palmeiras III</Title>
-      <TransactionType>For Sale</TransactionType>
-      <PublicationType>STANDARD</PublicationType>
-      <DetailViewUrl>https://www.superbid.net/oferta/4216360</DetailViewUrl>
-      <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/3a4bd333-d639-48cd-a70e-7d9f6e0bd52b.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/b28fca3a-8170-435c-9dcf-ebbe06ac2a77.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/5275acb9-1933-4f7e-8d14-877548c1fb04.jpg</Item>
-      </Media>
-      <Details>
-        <UsageType>Residential / Commercial</UsageType>
-        <PropertyType>Residential / Home</PropertyType>
-        <ListPrice currency="BRL">77279.54</ListPrice>
-        <LivingArea unit="square metres">100</LivingArea>
-        <Bedrooms>2</Bedrooms>
-        <Bathrooms>1</Bathrooms>
-      </Details>
-      <Location displayAddress="Street">
-        <Country abbreviation="BR">Brasil</Country>
-        <State abbreviation="SP">SP</State>
-        <City>Bom Sucesso de Itararé</City>
-        <Address>Rodovia Virgílio Ordes</Address>
-        <StreetNumber>S/N</StreetNumber>
         <PostalCode>18460-000</PostalCode>
       </Location>
       <ContactInfo>
@@ -12292,7 +11594,7 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="São Paulo">São Paulo</State>
         <City>Itararé</City>
-        <Address>Rua dos Girassóis</Address>
+        <Address>Rua 1</Address>
         <StreetNumber>123</StreetNumber>
         <PostalCode>18460-000</PostalCode>
       </Location>
@@ -12333,9 +11635,9 @@
         <Country abbreviation="BR">Brasil</Country>
         <State abbreviation="SP">SP</State>
         <City>Bom Sucesso de Itararé</City>
-        <Address>Rodovia Virgílio Ordes</Address>
-        <StreetNumber>S/N</StreetNumber>
-        <PostalCode>18460-000</PostalCode>
+        <Address>Rodovia Virgílio Ordes (ant. Estrada Itararé-Bairro Bom Sucesso)</Address>
+        <StreetNumber>s/n</StreetNumber>
+        <PostalCode>18465-000</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
@@ -12351,59 +11653,60 @@
       <PublicationType>STANDARD</PublicationType>
       <DetailViewUrl>https://www.superbid.net/oferta/4344101</DetailViewUrl>
       <Media>
-        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/2d5da484-a71d-40c6-9ff1-031a78f89406.jpg</Item>
-        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/8e68e7f6-6f28-4e6f-a7fd-10e1b9403036.jpg</Item>
-        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/26586b45-deea-4994-9da4-d21b78fffbe8.jpg</Item>
-        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/89f9b0b3-4a2b-4547-8d95-efd788faf2c9.jpg</Item>
-        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/bac80e7e-584a-4a56-9849-34dffd49629a.jpg</Item>
-        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/bdf7197c-1943-4751-bdce-d1cd467e14ba.jpg</Item>
-        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/d8e34e33-bb67-4d4b-9463-ddf04ae30f59.jpg</Item>
-        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/1e570a22-8c0c-4142-ae5e-c4072f673621.jpg</Item>
-        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/bb25383b-7614-4777-bdfc-4e6a51545168.jpg</Item>
-        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/8ca85747-169f-4be3-90e1-eacaa5546849.jpg</Item>
-        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/0bfa2c2b-cc79-4c4f-903f-37fcadc4914b.jpg</Item>
-        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/450b1cf1-47db-448b-95a3-c988aa28198c.jpg</Item>
-        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/da3cb667-5639-40cc-9e6e-9517c4516ae0.jpg</Item>
-        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/651cc6a8-68e8-46a4-b08a-1aebe68f3305.jpg</Item>
-        <Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/f3b236c3-c752-4599-96f3-0062ef980852.jpg</Item>
-        <Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/c0ac0c9f-3226-4995-96d2-612157702412.jpg</Item>
-        <Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/cec2ecf0-15c5-4243-8ad6-55d0edda9822.jpg</Item>
-        <Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/3547e037-4e92-43c5-baf5-5dd114b93dfb.jpg</Item>
-        <Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/820bcbc3-491a-4e81-aa18-32877b82e5e5.jpg</Item>
-        <Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/f2377e69-5776-4c04-8879-e5595b11fc8f.jpg</Item>
-        <Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/514a2bbe-7bbb-4439-8ebe-ca3908c77fa9.jpg</Item>
-        <Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/85a81df7-57c1-4b21-b991-b95da36c8f82.jpg</Item>
-        <Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/06deebbe-e2c1-4c32-89ae-e4fda8aa43e1.jpg</Item>
-        <Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/678d05e2-841f-4b46-b4cd-a634a3690944.jpg</Item>
-        <Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/c9211bc6-a77e-4983-946b-9d617d52e601.jpg</Item>
-        <Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/af31166e-0d48-42e0-bb52-70c7bc7f5ae6.jpg</Item>
-        <Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/d5f2ef81-fb8f-4aed-b3f9-eabfc4ff9834.jpg</Item>
-        <Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/232ed30d-04de-4b1d-a92c-d673f3310001.jpg</Item>
-        <Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/f2c1efd8-57bc-4a48-8204-2c16f51dcded.jpg</Item>
-        <Item medium="image" caption="img30">https://ms.sbwebservices.net/photos/40b4f817-5be9-408e-b6e7-8cab72957d43.jpg</Item>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/34fae6a3-1ec1-4a47-8d7c-6291a21a1645.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/b063d1ae-0e59-4991-88e2-5d63fabc7aa6.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/a925e484-6a96-4f22-aced-a80d3c04816c.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/b279e4bf-b826-4f29-8905-badf98c1f1af.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/7c9d400f-a0af-4a4c-b8ab-0f111dcd7070.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/c53b8395-fc98-4bf2-be1d-6ba9e5eef109.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/85a051d0-01db-4812-a797-a3e8903b2fbd.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/89f9b0b3-4a2b-4547-8d95-efd788faf2c9.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/bdf7197c-1943-4751-bdce-d1cd467e14ba.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/d8e34e33-bb67-4d4b-9463-ddf04ae30f59.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/bac80e7e-584a-4a56-9849-34dffd49629a.jpg</Item>
+        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/1e570a22-8c0c-4142-ae5e-c4072f673621.jpg</Item>
+        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/2d5da484-a71d-40c6-9ff1-031a78f89406.jpg</Item>
+        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/8e68e7f6-6f28-4e6f-a7fd-10e1b9403036.jpg</Item>
+        <Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/26586b45-deea-4994-9da4-d21b78fffbe8.jpg</Item>
+        <Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/c8d4a81d-72e2-426d-b859-f9bc06579b89.jpg</Item>
+        <Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/40b4f817-5be9-408e-b6e7-8cab72957d43.jpg</Item>
+        <Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/60bbe819-a7b5-40f5-ab13-fd5e29d5da95.jpg</Item>
+        <Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/7e93615f-30f3-4d0e-ba34-808858f0b6aa.jpg</Item>
+        <Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/2ff34ad5-e938-4c58-9812-13de9ef04dfa.jpg</Item>
+        <Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/abb34b6a-2947-488c-8240-d1c34fbd8c82.jpg</Item>
+        <Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/7f245c3c-8aa4-405f-8419-440cedfa036e.jpg</Item>
+        <Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/59222589-4e90-4879-8446-b699c99012b5.jpg</Item>
+        <Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/e16423ab-3611-4b46-b506-d18346a8c93c.jpg</Item>
+        <Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/0306251b-9033-4b70-9e0d-cf3d1484aa0b.jpg</Item>
+        <Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/e002ef05-ab26-4d94-83a3-30612e3040b8.jpg</Item>
+        <Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/8396f1d8-3bda-4164-99d0-8488511a9f06.jpg</Item>
+        <Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/64710c50-32ae-4c4c-8339-ab440e566c3f.jpg</Item>
+        <Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/e854bca3-7b2a-4477-a06d-264b1ccf3325.jpg</Item>
+        <Item medium="image" caption="img30">https://ms.sbwebservices.net/photos/c73a1c23-c696-410b-b124-b5ea1ae5691c.jpg</Item>
         <Item medium="image" caption="img31">https://ms.sbwebservices.net/photos/e7d6b4b1-5999-4cd6-8d00-a6afa3f7d687.jpg</Item>
-        <Item medium="image" caption="img32">https://ms.sbwebservices.net/photos/59222589-4e90-4879-8446-b699c99012b5.jpg</Item>
-        <Item medium="image" caption="img33">https://ms.sbwebservices.net/photos/64710c50-32ae-4c4c-8339-ab440e566c3f.jpg</Item>
-        <Item medium="image" caption="img34">https://ms.sbwebservices.net/photos/e854bca3-7b2a-4477-a06d-264b1ccf3325.jpg</Item>
-        <Item medium="image" caption="img35">https://ms.sbwebservices.net/photos/7f245c3c-8aa4-405f-8419-440cedfa036e.jpg</Item>
-        <Item medium="image" caption="img36">https://ms.sbwebservices.net/photos/b21168a7-0c33-4c2b-8462-75c8f315bb44.jpg</Item>
-        <Item medium="image" caption="img37">https://ms.sbwebservices.net/photos/60bbe819-a7b5-40f5-ab13-fd5e29d5da95.jpg</Item>
-        <Item medium="image" caption="img38">https://ms.sbwebservices.net/photos/e16423ab-3611-4b46-b506-d18346a8c93c.jpg</Item>
-        <Item medium="image" caption="img39">https://ms.sbwebservices.net/photos/7e93615f-30f3-4d0e-ba34-808858f0b6aa.jpg</Item>
-        <Item medium="image" caption="img40">https://ms.sbwebservices.net/photos/2ff34ad5-e938-4c58-9812-13de9ef04dfa.jpg</Item>
-        <Item medium="image" caption="img41">https://ms.sbwebservices.net/photos/abb34b6a-2947-488c-8240-d1c34fbd8c82.jpg</Item>
-        <Item medium="image" caption="img42">https://ms.sbwebservices.net/photos/0306251b-9033-4b70-9e0d-cf3d1484aa0b.jpg</Item>
-        <Item medium="image" caption="img43">https://ms.sbwebservices.net/photos/c73a1c23-c696-410b-b124-b5ea1ae5691c.jpg</Item>
-        <Item medium="image" caption="img44">https://ms.sbwebservices.net/photos/e002ef05-ab26-4d94-83a3-30612e3040b8.jpg</Item>
-        <Item medium="image" caption="img45">https://ms.sbwebservices.net/photos/8396f1d8-3bda-4164-99d0-8488511a9f06.jpg</Item>
-        <Item medium="image" caption="img46">https://ms.sbwebservices.net/photos/11174e51-a8d9-4833-907c-d8943f59648c.jpg</Item>
-        <Item medium="image" caption="img47">https://ms.sbwebservices.net/photos/a925e484-6a96-4f22-aced-a80d3c04816c.jpg</Item>
-        <Item medium="image" caption="img48">https://ms.sbwebservices.net/photos/b279e4bf-b826-4f29-8905-badf98c1f1af.jpg</Item>
-        <Item medium="image" caption="img49">https://ms.sbwebservices.net/photos/b063d1ae-0e59-4991-88e2-5d63fabc7aa6.jpg</Item>
-        <Item medium="image" caption="img50">https://ms.sbwebservices.net/photos/34fae6a3-1ec1-4a47-8d7c-6291a21a1645.jpg</Item>
-        <Item medium="image" caption="img51">https://ms.sbwebservices.net/photos/c53b8395-fc98-4bf2-be1d-6ba9e5eef109.jpg</Item>
-        <Item medium="image" caption="img52">https://ms.sbwebservices.net/photos/85a051d0-01db-4812-a797-a3e8903b2fbd.jpg</Item>
-        <Item medium="image" caption="img53">https://ms.sbwebservices.net/photos/7c9d400f-a0af-4a4c-b8ab-0f111dcd7070.jpg</Item>
+        <Item medium="image" caption="img32">https://ms.sbwebservices.net/photos/f2c1efd8-57bc-4a48-8204-2c16f51dcded.jpg</Item>
+        <Item medium="image" caption="img33">https://ms.sbwebservices.net/photos/b21168a7-0c33-4c2b-8462-75c8f315bb44.jpg</Item>
+        <Item medium="image" caption="img34">https://ms.sbwebservices.net/photos/11174e51-a8d9-4833-907c-d8943f59648c.jpg</Item>
+        <Item medium="image" caption="img35">https://ms.sbwebservices.net/photos/c9211bc6-a77e-4983-946b-9d617d52e601.jpg</Item>
+        <Item medium="image" caption="img36">https://ms.sbwebservices.net/photos/820bcbc3-491a-4e81-aa18-32877b82e5e5.jpg</Item>
+        <Item medium="image" caption="img37">https://ms.sbwebservices.net/photos/d5f2ef81-fb8f-4aed-b3f9-eabfc4ff9834.jpg</Item>
+        <Item medium="image" caption="img38">https://ms.sbwebservices.net/photos/651cc6a8-68e8-46a4-b08a-1aebe68f3305.jpg</Item>
+        <Item medium="image" caption="img39">https://ms.sbwebservices.net/photos/c0ac0c9f-3226-4995-96d2-612157702412.jpg</Item>
+        <Item medium="image" caption="img40">https://ms.sbwebservices.net/photos/af31166e-0d48-42e0-bb52-70c7bc7f5ae6.jpg</Item>
+        <Item medium="image" caption="img41">https://ms.sbwebservices.net/photos/450b1cf1-47db-448b-95a3-c988aa28198c.jpg</Item>
+        <Item medium="image" caption="img42">https://ms.sbwebservices.net/photos/0bfa2c2b-cc79-4c4f-903f-37fcadc4914b.jpg</Item>
+        <Item medium="image" caption="img43">https://ms.sbwebservices.net/photos/bb25383b-7614-4777-bdfc-4e6a51545168.jpg</Item>
+        <Item medium="image" caption="img44">https://ms.sbwebservices.net/photos/3547e037-4e92-43c5-baf5-5dd114b93dfb.jpg</Item>
+        <Item medium="image" caption="img45">https://ms.sbwebservices.net/photos/f3b236c3-c752-4599-96f3-0062ef980852.jpg</Item>
+        <Item medium="image" caption="img46">https://ms.sbwebservices.net/photos/232ed30d-04de-4b1d-a92c-d673f3310001.jpg</Item>
+        <Item medium="image" caption="img47">https://ms.sbwebservices.net/photos/8ca85747-169f-4be3-90e1-eacaa5546849.jpg</Item>
+        <Item medium="image" caption="img48">https://ms.sbwebservices.net/photos/f2377e69-5776-4c04-8879-e5595b11fc8f.jpg</Item>
+        <Item medium="image" caption="img49">https://ms.sbwebservices.net/photos/85a81df7-57c1-4b21-b991-b95da36c8f82.jpg</Item>
+        <Item medium="image" caption="img50">https://ms.sbwebservices.net/photos/06deebbe-e2c1-4c32-89ae-e4fda8aa43e1.jpg</Item>
+        <Item medium="image" caption="img51">https://ms.sbwebservices.net/photos/678d05e2-841f-4b46-b4cd-a634a3690944.jpg</Item>
+        <Item medium="image" caption="img52">https://ms.sbwebservices.net/photos/cec2ecf0-15c5-4243-8ad6-55d0edda9822.jpg</Item>
+        <Item medium="image" caption="img53">https://ms.sbwebservices.net/photos/da3cb667-5639-40cc-9e6e-9517c4516ae0.jpg</Item>
+        <Item medium="image" caption="img54">https://ms.sbwebservices.net/photos/514a2bbe-7bbb-4439-8ebe-ca3908c77fa9.jpg</Item>
       </Media>
       <Details>
         <UsageType>Residential</UsageType>
@@ -12419,7 +11722,127 @@
         <City>São Paulo</City>
         <Address>Rua Ouvidor Portugal</Address>
         <StreetNumber>115</StreetNumber>
-        <PostalCode>01545-050</PostalCode>
+        <PostalCode>01540-000</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>4366654</ListingID>
+      <Title>Casa, Desocupado, Foz Do Iguacu / PR (50% abaixo da avaliação)</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/4366654</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/af5ed9aa-9b18-4696-b580-8ac75802abff.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/cf040816-e4d2-44c7-9b03-e3c45a2e2fab.jpg</Item>
+        <Item medium="image" caption="img03">https://ms.sbwebservices.net/photos/7025b5ba-b842-4838-900c-c99c84b85b66.jpg</Item>
+        <Item medium="image" caption="img04">https://ms.sbwebservices.net/photos/0d3fd86f-815a-47a6-8509-d4f8274036fb.jpg</Item>
+        <Item medium="image" caption="img05">https://ms.sbwebservices.net/photos/f4659c25-98d2-48ea-80f1-bbfba76e9ecb.jpg</Item>
+        <Item medium="image" caption="img06">https://ms.sbwebservices.net/photos/f087bb5a-d9af-4089-85b7-8d8df494ff4c.jpg</Item>
+        <Item medium="image" caption="img07">https://ms.sbwebservices.net/photos/b1fa94e7-545a-4dfb-b7a6-8b24f6a0b642.jpg</Item>
+        <Item medium="image" caption="img08">https://ms.sbwebservices.net/photos/91e09d76-d157-454a-8dd6-6e9ad868e3e1.jpg</Item>
+        <Item medium="image" caption="img09">https://ms.sbwebservices.net/photos/6446c3bd-6561-4276-aaf8-1c8a23a6dba8.jpg</Item>
+        <Item medium="image" caption="img10">https://ms.sbwebservices.net/photos/1fa293c0-f24a-4f60-bce5-5d9c070e86a1.jpg</Item>
+        <Item medium="image" caption="img11">https://ms.sbwebservices.net/photos/5c7c08f4-de9a-4ca9-aaae-2655711e406b.jpg</Item>
+        <Item medium="image" caption="img12">https://ms.sbwebservices.net/photos/df98970b-4850-45d9-a292-4d888cbfca6b.jpg</Item>
+        <Item medium="image" caption="img13">https://ms.sbwebservices.net/photos/898b3093-0d0b-4866-bec8-a5bca12ac6d5.jpg</Item>
+        <Item medium="image" caption="img14">https://ms.sbwebservices.net/photos/76e28268-624e-4f9c-ab07-59653fc88bc2.jpg</Item>
+        <Item medium="image" caption="img15">https://ms.sbwebservices.net/photos/86dd4ba9-cc9c-4c23-9290-5311a2f48c76.jpg</Item>
+        <Item medium="image" caption="img16">https://ms.sbwebservices.net/photos/bf795735-024d-4f78-ac57-9b3be7ceec26.jpg</Item>
+        <Item medium="image" caption="img17">https://ms.sbwebservices.net/photos/201fd0da-6fdf-4e1f-8824-a70675845bd2.jpg</Item>
+        <Item medium="image" caption="img18">https://ms.sbwebservices.net/photos/e19a8978-8f2c-46ad-9a59-cf02b632a64d.jpg</Item>
+        <Item medium="image" caption="img19">https://ms.sbwebservices.net/photos/65835ed2-d979-4ff3-a5b2-717b47717398.jpg</Item>
+        <Item medium="image" caption="img20">https://ms.sbwebservices.net/photos/7424b044-2627-45e7-acad-735651178eb5.jpg</Item>
+        <Item medium="image" caption="img21">https://ms.sbwebservices.net/photos/43d158b6-09e3-4dab-b2f8-402757121e0d.jpg</Item>
+        <Item medium="image" caption="img22">https://ms.sbwebservices.net/photos/5119130a-b878-4f77-a898-6552c6fd8cf7.jpg</Item>
+        <Item medium="image" caption="img23">https://ms.sbwebservices.net/photos/8f1af845-3dd0-42d3-96da-6df04ea603bf.jpg</Item>
+        <Item medium="image" caption="img24">https://ms.sbwebservices.net/photos/d76e3f41-c58d-4133-8ac7-ad1067332008.jpg</Item>
+        <Item medium="image" caption="img25">https://ms.sbwebservices.net/photos/f7be96e5-ceb6-45c0-9a03-05eccd7696b6.jpg</Item>
+        <Item medium="image" caption="img26">https://ms.sbwebservices.net/photos/2a5211c5-6001-470a-aa46-a0a84264d8f3.jpg</Item>
+        <Item medium="image" caption="img27">https://ms.sbwebservices.net/photos/c5410f00-75e8-4610-a87d-bcd44baebcc7.jpg</Item>
+        <Item medium="image" caption="img28">https://ms.sbwebservices.net/photos/c9b647ef-705f-4ace-8748-38d9d4cd47bd.jpg</Item>
+        <Item medium="image" caption="img29">https://ms.sbwebservices.net/photos/6198b379-369d-435b-abb0-026083141523.jpg</Item>
+        <Item medium="image" caption="img30">https://ms.sbwebservices.net/photos/51e21ec1-9621-4b93-8173-f00576c5386b.jpg</Item>
+        <Item medium="image" caption="img31">https://ms.sbwebservices.net/photos/42fdcf83-62bd-49e9-85fe-9c65c2334862.jpg</Item>
+        <Item medium="image" caption="img32">https://ms.sbwebservices.net/photos/c05a45c1-d61a-4f45-872e-7ea8b8400d61.jpg</Item>
+        <Item medium="image" caption="img33">https://ms.sbwebservices.net/photos/1e7a39d0-f716-433c-9696-933c440db4f4.jpg</Item>
+        <Item medium="image" caption="img34">https://ms.sbwebservices.net/photos/18b249d3-f181-4b29-b81c-6e9ccca82161.jpg</Item>
+        <Item medium="image" caption="img35">https://ms.sbwebservices.net/photos/eeb36f25-6245-4f7d-ac12-c13bc42054f5.jpg</Item>
+        <Item medium="image" caption="img36">https://ms.sbwebservices.net/photos/5912b017-4cc5-4cf8-b2d2-7c8590fd5dda.jpg</Item>
+        <Item medium="image" caption="img37">https://ms.sbwebservices.net/photos/447a6b3f-99f4-473c-8359-edcb5ca1cd1c.jpg</Item>
+        <Item medium="image" caption="img38">https://ms.sbwebservices.net/photos/281b8c5e-dbeb-46da-a905-26769c5d449d.jpg</Item>
+        <Item medium="image" caption="img39">https://ms.sbwebservices.net/photos/fd3dc4bf-581b-4f5c-ba4a-47204f27ca08.jpg</Item>
+        <Item medium="image" caption="img40">https://ms.sbwebservices.net/photos/89af4a09-6d60-4d26-a0d5-07e21df30f71.jpg</Item>
+        <Item medium="image" caption="img41">https://ms.sbwebservices.net/photos/c3cd1e9f-7aad-4dea-a66d-416b522eaea6.jpg</Item>
+        <Item medium="image" caption="img42">https://ms.sbwebservices.net/photos/4493e9ca-715b-4551-892b-a4f0ade88084.jpg</Item>
+        <Item medium="image" caption="img43">https://ms.sbwebservices.net/photos/c19bef90-180d-40cf-a12b-78bf0645d171.jpg</Item>
+        <Item medium="image" caption="img44">https://ms.sbwebservices.net/photos/c5898f84-a468-45f5-88bd-2115c7c18aa7.jpg</Item>
+        <Item medium="image" caption="img45">https://ms.sbwebservices.net/photos/41b28cf8-0e27-4b69-9f96-defb076718b7.jpg</Item>
+        <Item medium="image" caption="img46">https://ms.sbwebservices.net/photos/3b692518-bb4a-4d10-b35a-bd3bd02e0ee7.jpg</Item>
+        <Item medium="image" caption="img47">https://ms.sbwebservices.net/photos/fc6c249f-c446-45c6-a1ec-929e4fa6c429.jpg</Item>
+        <Item medium="image" caption="img48">https://ms.sbwebservices.net/photos/29081b35-5ec6-4e91-af63-f4467e6c3954.jpg</Item>
+        <Item medium="image" caption="img49">https://ms.sbwebservices.net/photos/3005245f-08f5-4bf5-b397-ddd8f6eabe30.jpg</Item>
+        <Item medium="image" caption="img50">https://ms.sbwebservices.net/photos/6daf143b-ec42-4814-ad52-ad5a8c4b74d3.jpg</Item>
+        <Item medium="image" caption="img51">https://ms.sbwebservices.net/photos/ec808d5d-0aa8-4e93-bc76-c32a886e5c43.jpg</Item>
+        <Item medium="image" caption="img52">https://ms.sbwebservices.net/photos/6713a13b-dddf-4865-acdd-1c8b8d91310f.jpg</Item>
+        <Item medium="image" caption="img53">https://ms.sbwebservices.net/photos/2ba51080-1b97-49a1-b2ff-04896dfbeb15.jpg</Item>
+        <Item medium="image" caption="img54">https://ms.sbwebservices.net/photos/2bdec83b-54e2-4b18-9b51-db196c72df2f.jpg</Item>
+        <Item medium="image" caption="img55">https://ms.sbwebservices.net/photos/ba0d0fe4-3054-448c-8c56-a9634f952022.jpg</Item>
+        <Item medium="image" caption="img56">https://ms.sbwebservices.net/photos/6593bd9e-fc1a-42f6-b735-e6834d322d68.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">2750000</ListPrice>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="PR">PR</State>
+        <City>Foz Do Iguacu</City>
+        <Address>Av. Das Cataratas</Address>
+        <StreetNumber>S/Nº</StreetNumber>
+        <PostalCode>85851118</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>kelly.teruya@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11) 3150-4646</Telephone>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>4363318</ListingID>
+      <Title>Casa 73m², Vila João Batista, São Paulo/SP - Ocupada</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/4363318</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/65932e89-6a5d-435b-905c-fb62cbe7bc32.jpg</Item>
+        <Item medium="image" caption="img02">https://ms.sbwebservices.net/photos/c3315c5c-ed36-42ce-b50b-0a200229fd3d.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <ListPrice currency="BRL">392553</ListPrice>
+        <LivingArea unit="square metres">73</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Address>Rua Irineu Maciel</Address>
+        <StreetNumber>42</StreetNumber>
+        <PostalCode>02837-060</PostalCode>
       </Location>
       <ContactInfo>
         <Name>Superbid Webservices LTDA</Name>
