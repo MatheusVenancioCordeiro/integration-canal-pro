@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ListingDataFeed>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
   <Header>
-    <Provider>Matheus Venancio Cordeiro</Provider>
-    <Email>matheus.cordeiro@superbid.net</Email>
+    <Provider>Wesley Maciel</Provider>
+    <Email>wesley.maciel@superbid.net</Email>
     <ContactName>Superbid Exchange</ContactName>
-    <PublishDate>2025-12-17T16:40:26.032Z</PublishDate>
+    <PublishDate>2023-10-02T15:55:08</PublishDate>
+    <Telephone>11-3296 7555</Telephone>
   </Header>
-  <Listings />
+  <Listings>
+    <Listing xmlns="">
+      <ListingID>3384412</ListingID>
+      <Title>Casa 125m² no bairro Potecas em São José/SC - Ocupado</Title>
+      <TransactionType>For Sale</TransactionType>
+      <PublicationType>STANDARD</PublicationType>
+      <DetailViewUrl>https://www.superbid.net/oferta/3384412</DetailViewUrl>
+      <Media>
+        <Item medium="image" caption="img01">https://ms.sbwebservices.net/photos/8b624aa8-7a76-4a12-94ca-0f90904fb725.jpg</Item>
+      </Media>
+      <Details>
+        <UsageType>Residential</UsageType>
+        <PropertyType>Residential / Home</PropertyType>
+        <Description><![CDATA[Casa 125m² no bairro Potecas em São José/SC - Ocupado  Casa 125m² no bairro Potecas em São José/SC - Ocupado     Localização: Rua Ipê Amarelo, n° 165, Residencial Orquídea, no bairro Potecas, em São José/SC - CEP: 88119416     área útil: 109,95766m²  área total: 125,00766m²     Matrícula: nº 155.463  RGI: 1º Oficial de Registro de Imóveis de São José/SC  Inscrição Prefeitura: 04.03.114.0455.01.002     DOSSIÊ: 02.22644     Imóvel ocupado, a desocupação correrá por conta do adquirente, nos termos do artigo 30 da Lei nº 9.514/97.     O leilão deverá ser realizado em duas praças, sendo que a 2ª só deverá ocorrer caso não haja arrematantes na 1ª.     1ª Praça:  Fechamento: 06/setembro/2024 a partir das 09h30 com Valor Mínimo de Venda de R$ 524.000,00     2ª Praça:  Abertura: 06/setembro/2024 a partir das 09h31  Fechamento: 09/setembro/2024 a partir das 13h30 com Valor Mínimo de Venda de R$ 490.952,20     Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista.  3 - Venda condicionada ao não exercício do direito de preferência do Fiduciante.  4 - Os débitos de IPTU e condomínio (se o caso) serão quitados pelo vendedor até a data do leilão.     Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.     Percentual de desconto: 6% de deságio sobre o valor de avaliação.   02.22644 Santander - Alienação Fiduciária - D.02.22644]]></Description>
+        <ListPrice currency="BRL">524000</ListPrice>
+        <LivingArea unit="square metres">125</LivingArea>
+        <Bedrooms>2</Bedrooms>
+        <Bathrooms>1</Bathrooms>
+      </Details>
+      <Location displayAddress="All">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SC">Santa Catarina</State>
+        <City>São José</City>
+        <Address>Rua Ipê Amarelo</Address>
+        <StreetNumber>165</StreetNumber>
+        <PostalCode>88119-416</PostalCode>
+      </Location>
+      <ContactInfo>
+        <Name>Superbid Webservices LTDA</Name>
+        <Email>aleksandar.junior@superbid.net</Email>
+        <Website>http://www.superbid.net</Website>
+        <Telephone>(11)98347-8233</Telephone>
+      </ContactInfo>
+    </Listing>
+  </Listings>
 </ListingDataFeed>
 
