@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1780078222886</dataModificacao>
+  <dataModificacao>1780082764845</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[4636933]]></codigoAnuncio>
@@ -23506,6 +23506,67 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Av. Brasil, 382, Novo Amanhecer, Alvares Florence/SP]]></endereco>
         <localidade><![CDATA[Av. Brasil, 382, Novo Amanhecer, Alvares Florence/SP]]></localidade>
+        <codigoPostal />
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[4693560]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[4693560]]></codigoReferencia>
+      <titulo><![CDATA[Terreno Urbano, A.T. 182m², Jardim Comendador]]></titulo>
+      <descricao><![CDATA[Terreno Urbano, A.T. 182m², Jardim Comendador  Quadra G - Lote nº 10: Um lote de terreno urbano com área de 182,62 metros quadrados, sem benfeitorias localizado na esquina entre a Rua 02 e a Rua 09 do Loteamento Jardim Comendador, no Município de Santo Anastácio SP, locado ao lado par do logradouro, lote este que leva o n° 10 da Quadra G, tem o formato irregular, dentro das seguintes metragens de divisas e confrontações de quem olha da Rua 02 para o terreno 'Frente segue em linha reta em uma distância de 1,00 metros mais uma distância de 14,14 metros em curva com raio de 9,00 metros de concordância até o ponto de confluência entre a Rua 02 e a Rua 09; Lado Esquerdo 11,00 metros confrontando com a Rua 09; Fundos 10,00 metros confrontando com o lote nº 11 da Quadra G; Lado Direito 20,00 metros confrontando com o lote nº 09 da Quadra G.  Cadastro municipal não informado na matrícula.  Matrícula nº 13.606 do CRI de Santo Anastácio.  VALOR DA AVALIAÇÃO: R$ 57.000,00 (cinquenta e sete mil reais)  Abner Felipe Rainho Nascimento Loteamento Jardim Comendador - Santo Anastácio Spe Ltda ni Vara Única da Comarca de Santo Anastácio/SP 0000641-07.2025.8.26.0553
+Observação: essas são as características originais do imóvel, que podem ter sofrido alterações/remodelações. O vendedor não teve acesso ao interior do imóvel, e por este motivo não se responsabiliza por eventuais divergências.]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[182]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>34200</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/c9dda02c-3c74-423b-bcd6-4aa16b02ea5b.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco />
+        <localidade />
         <codigoPostal />
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
