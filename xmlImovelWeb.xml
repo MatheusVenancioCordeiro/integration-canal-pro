@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenNavent>
-  <dataModificacao>1781873634383</dataModificacao>
+  <dataModificacao>1782130034174</dataModificacao>
   <Imoveis>
     <Imovel>
       <codigoAnuncio><![CDATA[4611956]]></codigoAnuncio>
@@ -16693,6 +16693,72 @@ Observação: essas são as características originais do imóvel, que podem ter
       <localizacao>
         <endereco><![CDATA[Rua dos Oiti– Bairro Cemig – Terreno 10, Três Marias/MG CEP: 39205-000]]></endereco>
         <localidade><![CDATA[Rua dos Oiti– Bairro Cemig – Terreno 10, Três Marias/MG CEP: 39205-000]]></localidade>
+        <codigoPostal><![CDATA[39205-000]]></codigoPostal>
+        <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
+      </localizacao>
+      <publicador>
+        <codigoImobiliaria>47235565</codigoImobiliaria>
+        <emailUsuario>nahteruya@superbid.net</emailUsuario>
+        <emailContato>imoveis.sac@superbid.net</emailContato>
+        <nomeContato>Sold Leilões</nomeContato>
+        <telefoneContato>+55 (11) 3296-7581</telefoneContato>
+      </publicador>
+      <publicacao>
+        <tipoPublicaçao><![CDATA[SIMPLE]]></tipoPublicaçao>
+      </publicacao>
+    </Imovel>
+    <Imovel>
+      <codigoAnuncio><![CDATA[4709478]]></codigoAnuncio>
+      <codigoReferencia><![CDATA[4709478]]></codigoReferencia>
+      <titulo><![CDATA[Terreno 937m² Desocupado em Três Marias/MG]]></titulo>
+      <descricao><![CDATA[Terreno 937m² Desocupado em Três Marias/MG  Terreno 937m² Desocupado em Três Marias/MG     Localização: Rua dos Oiti Bairro Cemig Terreno 14, Três Marias/MG     Matrícula: nº 10.342 - CRI de Três Maria/MG  N° de Contribuinte: 0134000340014001     Imóvel desocupado  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Informações Relevantes:  1 - Bens no estado que se encontram (imóveis vendidos em caráter "Ad Corpus");  2 - FORMA DE PAGAMENTO: À vista ou Financiado conforme condições do Edital.  3 - Lances condicionais, sujeitos à aprovação da comitente vendedora (ou seja, lances ofertados podem ser recusados ou aceitos pelo vendedor)  4 - Os débitos de IPTU/ITR e condomínio (se o caso) serão quitados pelo vendedor&nbsp;conforme disposto em Edital  5 - Os custos de lavratura da Escritura, registro, certidão e ITBI, são de aproximadamente no valor de R$ 17.300,00, que deverão ser pagos pelo ARREMATANTE junto com o valor de arrematação.        Para maiores informações, dúvidas relativas ao edital, por gentileza entre em contato pelo e-mail imoveis.sac@superbid.net. Tel: 11 4950-9602.  64986 CEMIG - 03.07.2026 - 16h00]]></descricao>
+      <tipoPropriedade>
+        <idTipo><![CDATA[1003]]></idTipo>
+        <idSubTipo><![CDATA[8]]></idSubTipo>
+        <tipo><![CDATA[Terreno]]></tipo>
+        <subTipo><![CDATA[Terreno Padrão]]></subTipo>
+      </tipoPropriedade>
+      <caracteristicas>
+        <caracteristica>
+          <id><![CDATA[CFT3]]></id>
+          <nome><![CDATA[BANHEIRO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT2]]></id>
+          <nome><![CDATA[QUARTO]]></nome>
+          <valor><![CDATA[0]]></valor>
+        </caracteristica>
+        <caracteristica>
+          <id><![CDATA[CFT100]]></id>
+          <nome><![CDATA[AREA_TOTAL]]></nome>
+          <valor><![CDATA[937]]></valor>
+          <idValor><![CDATA[M2]]></idValor>
+        </caracteristica>
+      </caracteristicas>
+      <precos>
+        <preco>
+          <quantidade>171682.5</quantidade>
+          <moeda><![CDATA[BRL]]></moeda>
+          <operacao><![CDATA[VENTA]]></operacao>
+        </preco>
+      </precos>
+      <multimidia>
+        <imagens>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/38a25fc9-2676-497b-835c-c51639cb0553.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/e516586d-6d16-4675-9689-ca90f66f9f9f.jpg]]></urlImagem>
+          </imagem>
+          <imagem>
+            <urlImagem><![CDATA[https://ms.sbwebservices.net/photos/44b7a85b-8e38-4116-8a9c-cb997dcd70ee.jpg]]></urlImagem>
+          </imagem>
+        </imagens>
+      </multimidia>
+      <localizacao>
+        <endereco><![CDATA[Rua dos Oiti– Bairro Cemig – Terreno 14, Três Marias/MG CEP: 39205-000]]></endereco>
+        <localidade><![CDATA[Rua dos Oiti– Bairro Cemig – Terreno 14, Três Marias/MG CEP: 39205-000]]></localidade>
         <codigoPostal><![CDATA[39205-000]]></codigoPostal>
         <mostrarMapa><![CDATA[EXACTO]]></mostrarMapa>
       </localizacao>
